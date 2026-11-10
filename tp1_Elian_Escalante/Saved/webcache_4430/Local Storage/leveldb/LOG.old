@@ -1,8 +1,23 @@
-2026/11/06-14:08:40.277 3918 Creating DB D:/DEV/Unreal/tp1_Elian_Escalante/tp1_Elian_Escalante/Saved/webcache_4430\Local Storage\leveldb since it was missing.
-2026/11/06-14:08:40.457 3918 Reusing MANIFEST D:/DEV/Unreal/tp1_Elian_Escalante/tp1_Elian_Escalante/Saved/webcache_4430\Local Storage\leveldb/MANIFEST-000001
-2026/11/06-14:23:56.440 2e74 Level-0 table #5: started
-2026/11/06-14:23:57.599 2e74 Level-0 table #5: 69016 bytes OK
-2026/11/06-14:23:57.665 2e74 Delete type=0 #3
-2026/11/06-14:27:05.448 414c Level-0 table #7: started
-2026/11/06-14:27:05.753 414c Level-0 table #7: 84370 bytes OK
-2026/11/06-14:27:05.790 414c Delete type=0 #4
+2026/11/08-19:53:20.082 3608 Reusing MANIFEST D:/DEV/Unreal/tp1_Elian_Escalante/tp1_Elian_Escalante/Saved/webcache_4430\Local Storage\leveldb/MANIFEST-000001
+2026/11/08-19:53:20.168 3608 Recovering log #6
+2026/11/08-19:53:20.258 3608 Level-0 table #9: started
+2026/11/08-19:53:20.364 3608 Level-0 table #9: 90752 bytes OK
+2026/11/08-19:53:20.413 3608 Delete type=0 #6
+2026/11/08-19:55:33.639 344 Level-0 table #12: started
+2026/11/08-19:55:33.687 344 Level-0 table #12: 67718 bytes OK
+2026/11/08-19:55:33.723 344 Delete type=0 #10
+2026/11/08-19:57:33.645 1d3c Level-0 table #14: started
+2026/11/08-19:57:33.676 1d3c Level-0 table #14: 77527 bytes OK
+2026/11/08-19:57:33.720 1d3c Delete type=0 #11
+2026/11/08-19:59:16.909 3118 Level-0 table #16: started
+2026/11/08-19:59:16.944 3118 Level-0 table #16: 85683 bytes OK
+2026/11/08-19:59:16.979 3118 Delete type=0 #13
+2026/11/08-19:59:16.979 3118 Compacting 4@0 + 1@1 files
+2026/11/08-19:59:17.013 3118 Generated table #17@0: 3 keys, 42772 bytes
+2026/11/08-19:59:17.013 3118 Compacted 4@0 + 1@1 files => 42772 bytes
+2026/11/08-19:59:17.045 3118 compacted to: files[ 0 1 1 0 0 0 0 ]
+2026/11/08-19:59:17.046 3118 Delete type=2 #7
+2026/11/08-19:59:17.046 3118 Delete type=2 #9
+2026/11/08-19:59:17.046 3118 Delete type=2 #12
+2026/11/08-19:59:17.046 3118 Delete type=2 #14
+2026/11/08-19:59:17.046 3118 Delete type=2 #16
