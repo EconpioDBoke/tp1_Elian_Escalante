@@ -3749,3 +3749,197 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2026.11.11-01.01.12:599][306]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
 [2026.11.11-01.01.12:599][306]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
 [2026.11.11-01.01.12:599][306]AssetCheck: /Game/Blueprints/BP_Arrow Validating asset
+[2026.11.11-01.01.42:423][781]LogUObjectHash: Compacting FUObjectHashTables data took   2.33ms
+[2026.11.11-01.01.42:426][781]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Scene/HelmsDeep' took 0.028
+[2026.11.11-01.01.42:427][781]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/AC_BowMechanics] ([2] browsable assets)...
+[2026.11.11-01.01.42:427][781]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/AC_BowMechanics]
+[2026.11.11-01.01.42:439][781]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Blueprints/AC_BowMechanics_Auto3
+[2026.11.11-01.01.42:440][781]LogSavePackage: Moving 'D:/DEV/Unreal/tp1_Elian_Escalante/tp1_Elian_Escalante/Saved/AC_BowMechanics_Auto3E35DF8B74A0B599221D43A8585AC3F98.tmp' to 'D:/DEV/Unreal/tp1_Elian_Escalante/tp1_Elian_Escalante/Saved/Autosaves/Game/Blueprints/AC_BowMechanics_Auto3.uasset'
+[2026.11.11-01.01.42:495][781]LogFileHelpers: Auto-saving content packages took 0.068
+[2026.11.11-01.01.45:054][865]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.11.11-01.01.45:124][865]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/BP_Arrow] ([2] browsable assets)...
+[2026.11.11-01.01.45:124][865]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BP_Arrow]
+[2026.11.11-01.01.45:124][865]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Arrow" FILE="D:/DEV/Unreal/tp1_Elian_Escalante/tp1_Elian_Escalante/Content/Blueprints/BP_Arrow.uasset" SILENT=true
+[2026.11.11-01.01.45:133][865]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_Arrow
+[2026.11.11-01.01.45:134][865]LogSavePackage: Moving 'D:/DEV/Unreal/tp1_Elian_Escalante/tp1_Elian_Escalante/Saved/BP_ArrowCADE90C24AC98508DC22FEBCF0DA66E1.tmp' to 'D:/DEV/Unreal/tp1_Elian_Escalante/tp1_Elian_Escalante/Content/Blueprints/BP_Arrow.uasset'
+[2026.11.11-01.01.45:148][865]LogFileHelpers: InternalPromptForCheckoutAndSave took 94.140 ms (total: 4.38 sec)
+[2026.11.11-01.01.45:232][865]LogContentValidation: Display: Starting to validate 1 assets
+[2026.11.11-01.01.45:232][865]LogContentValidation: Enabled validators:
+[2026.11.11-01.01.45:232][865]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.11.11-01.01.45:232][865]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.11.11-01.01.45:232][865]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.11.11-01.01.45:232][865]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.11.11-01.01.45:232][865]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.11.11-01.01.45:232][865]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.11.11-01.01.45:233][865]AssetCheck: /Game/Blueprints/BP_Arrow Validating asset
+[2026.11.11-01.01.47:069][949]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.11.11-01.01.47:139][949]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/AC_BowMechanics] ([2] browsable assets)...
+[2026.11.11-01.01.47:139][949]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/AC_BowMechanics]
+[2026.11.11-01.01.47:139][949]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/AC_BowMechanics" FILE="D:/DEV/Unreal/tp1_Elian_Escalante/tp1_Elian_Escalante/Content/Blueprints/AC_BowMechanics.uasset" SILENT=true
+[2026.11.11-01.01.47:154][949]LogSavePackage: Moving output files for package: /Game/Blueprints/AC_BowMechanics
+[2026.11.11-01.01.47:154][949]LogSavePackage: Moving 'D:/DEV/Unreal/tp1_Elian_Escalante/tp1_Elian_Escalante/Saved/AC_BowMechanics08D86DB349001BA6264297AD78279553.tmp' to 'D:/DEV/Unreal/tp1_Elian_Escalante/tp1_Elian_Escalante/Content/Blueprints/AC_BowMechanics.uasset'
+[2026.11.11-01.01.47:170][949]LogFileHelpers: InternalPromptForCheckoutAndSave took 102.148 ms (total: 4.49 sec)
+[2026.11.11-01.01.47:243][949]LogContentValidation: Display: Starting to validate 1 assets
+[2026.11.11-01.01.47:243][949]LogContentValidation: Enabled validators:
+[2026.11.11-01.01.47:243][949]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.11.11-01.01.47:243][949]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.11.11-01.01.47:243][949]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.11.11-01.01.47:243][949]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.11.11-01.01.47:244][949]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.11.11-01.01.47:244][949]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.11.11-01.01.47:244][949]AssetCheck: /Game/Blueprints/AC_BowMechanics Validating asset
+[2026.11.11-01.01.48:777][ 14]LogSlate: Window 'BP_Player' being destroyed
+[2026.11.11-01.01.48:785][ 14]LogSlate: Window 'BP_Player' being destroyed
+[2026.11.11-01.01.48:791][ 14]LogWorld: UWorld::CleanupWorld for World_40, bSessionEnded=true, bCleanupResources=true
+[2026.11.11-01.01.48:791][ 14]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.11.11-01.01.48:860][ 14]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2026.11.11-01.01.48:860][ 14]LogWorld: UWorld::CleanupWorld for World_41, bSessionEnded=true, bCleanupResources=true
+[2026.11.11-01.01.48:860][ 14]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.11.11-01.01.48:910][ 14]LogWorld: UWorld::CleanupWorld for World_42, bSessionEnded=true, bCleanupResources=true
+[2026.11.11-01.01.48:910][ 14]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.11.11-01.01.48:957][ 14]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2026.11.11-01.01.48:957][ 14]LogWorld: UWorld::CleanupWorld for World_43, bSessionEnded=true, bCleanupResources=true
+[2026.11.11-01.01.48:957][ 14]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.11.11-01.01.49:060][ 14]LogUObjectHash: Compacting FUObjectHashTables data took   2.43ms
+[2026.11.11-01.01.50:577][111]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.11.11-01.01.50:638][111]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Scene/HelmsDeep" FILE="D:/DEV/Unreal/tp1_Elian_Escalante/tp1_Elian_Escalante/Content/Scene/HelmsDeep.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2026.11.11-01.01.50:690][111]LogUObjectHash: Compacting FUObjectHashTables data took   1.45ms
+[2026.11.11-01.01.50:794][111]LogSavePackage: Moving output files for package: /Game/Scene/HelmsDeep
+[2026.11.11-01.01.50:795][111]LogSavePackage: Moving 'D:/DEV/Unreal/tp1_Elian_Escalante/tp1_Elian_Escalante/Saved/HelmsDeep179C144941971735E94CDFBBFFE6BDEC.tmp' to 'D:/DEV/Unreal/tp1_Elian_Escalante/tp1_Elian_Escalante/Content/Scene/HelmsDeep.umap'
+[2026.11.11-01.01.50:812][111]LogFileHelpers: Saving map 'HelmsDeep' took 0.175
+[2026.11.11-01.01.50:820][111]LogFileHelpers: InternalPromptForCheckoutAndSave took 243.034 ms (total: 4.73 sec)
+[2026.11.11-01.01.50:867][111]LogContentValidation: Display: Starting to validate 1 assets
+[2026.11.11-01.01.50:867][111]LogContentValidation: Enabled validators:
+[2026.11.11-01.01.50:867][111]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.11.11-01.01.50:867][111]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.11.11-01.01.50:867][111]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.11.11-01.01.50:868][111]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.11.11-01.01.50:868][111]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.11.11-01.01.50:868][111]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.11.11-01.01.50:868][111]AssetCheck: /Game/Scene/HelmsDeep Validating asset
+[2026.11.11-01.01.59:710][207]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 4345.308105
+[2026.11.11-01.02.00:711][210]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.11.11-01.02.00:711][210]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 4345.974609, Update Interval: 358.626678
+[2026.11.11-01.04.55:583][791]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.11.11-01.04.55:644][791]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Scene/HelmsDeep" FILE="D:/DEV/Unreal/tp1_Elian_Escalante/tp1_Elian_Escalante/Content/Scene/HelmsDeep.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2026.11.11-01.04.55:702][791]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2026.11.11-01.04.55:804][791]LogSavePackage: Moving output files for package: /Game/Scene/HelmsDeep
+[2026.11.11-01.04.55:805][791]LogSavePackage: Moving 'D:/DEV/Unreal/tp1_Elian_Escalante/tp1_Elian_Escalante/Saved/HelmsDeepD828132A4F75B2BA3B2AB2834928113B.tmp' to 'D:/DEV/Unreal/tp1_Elian_Escalante/tp1_Elian_Escalante/Content/Scene/HelmsDeep.umap'
+[2026.11.11-01.04.55:819][791]LogFileHelpers: Saving map 'HelmsDeep' took 0.175
+[2026.11.11-01.04.55:825][791]LogFileHelpers: InternalPromptForCheckoutAndSave took 242.055 ms (total: 4.97 sec)
+[2026.11.11-01.04.55:897][791]LogContentValidation: Display: Starting to validate 1 assets
+[2026.11.11-01.04.55:897][791]LogContentValidation: Enabled validators:
+[2026.11.11-01.04.55:898][791]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.11.11-01.04.55:898][791]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.11.11-01.04.55:898][791]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.11.11-01.04.55:898][791]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.11.11-01.04.55:898][791]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.11.11-01.04.55:898][791]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.11.11-01.04.55:898][791]AssetCheck: /Game/Scene/HelmsDeep Validating asset
+[2026.11.11-01.04.56:705][845]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2026.11.11-01.04.56:769][845]LogStall: Shutdown...
+[2026.11.11-01.04.56:769][845]LogStall: Shutdown complete.
+[2026.11.11-01.04.57:359][845]LogSlate: Window 'tp1_Elian_Escalante - Unreal Editor' being destroyed
+[2026.11.11-01.04.57:622][845]Cmd: QUIT_EDITOR
+[2026.11.11-01.04.57:622][846]LogCore: Engine exit requested (reason: UUnrealEdEngine::CloseEditor())
+[2026.11.11-01.04.57:628][846]LogCore: Engine exit requested (reason: EngineExit() was called; note: exit was already requested)
+[2026.11.11-01.04.57:629][846]LogStaticMesh: Abandoning remaining async distance field tasks for shutdown
+[2026.11.11-01.04.57:629][846]LogStaticMesh: Abandoning remaining async card representation tasks for shutdown
+[2026.11.11-01.04.57:632][846]LogWorld: UWorld::CleanupWorld for HelmsDeep, bSessionEnded=true, bCleanupResources=true
+[2026.11.11-01.04.57:632][846]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.11.11-01.04.57:660][846]LogStylusInput: Shutting down StylusInput subsystem.
+[2026.11.11-01.04.57:661][846]LogLevelSequenceEditor: LevelSequenceEditor subsystem deinitialized.
+[2026.11.11-01.04.57:678][846]LogWorld: UWorld::CleanupWorld for World_25, bSessionEnded=true, bCleanupResources=true
+[2026.11.11-01.04.57:678][846]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.11.11-01.04.57:685][846]LogWorld: UWorld::CleanupWorld for World_30, bSessionEnded=true, bCleanupResources=true
+[2026.11.11-01.04.57:685][846]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.11.11-01.04.57:694][846]LogWorld: UWorld::CleanupWorld for World_16, bSessionEnded=true, bCleanupResources=true
+[2026.11.11-01.04.57:695][846]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.11.11-01.04.57:703][846]LogWorld: UWorld::CleanupWorld for World_21, bSessionEnded=true, bCleanupResources=true
+[2026.11.11-01.04.57:703][846]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.11.11-01.04.57:708][846]LogWorld: UWorld::CleanupWorld for World_10, bSessionEnded=true, bCleanupResources=true
+[2026.11.11-01.04.57:709][846]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.11.11-01.04.57:714][846]LogWorld: UWorld::CleanupWorld for World_9, bSessionEnded=true, bCleanupResources=true
+[2026.11.11-01.04.57:715][846]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.11.11-01.04.57:722][846]LogWorld: UWorld::CleanupWorld for World_8, bSessionEnded=true, bCleanupResources=true
+[2026.11.11-01.04.57:723][846]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.11.11-01.04.57:727][846]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2026.11.11-01.04.57:727][846]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.11.11-01.04.57:734][846]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2026.11.11-01.04.57:734][846]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.11.11-01.04.57:739][846]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2026.11.11-01.04.57:739][846]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.11.11-01.04.57:742][846]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2026.11.11-01.04.57:742][846]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.11.11-01.04.57:745][846]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2026.11.11-01.04.57:746][846]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.11.11-01.04.57:750][846]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2026.11.11-01.04.57:750][846]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.11.11-01.04.57:757][846]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2026.11.11-01.04.57:757][846]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.11.11-01.04.57:768][846]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2026.11.11-01.04.57:768][846]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.11.11-01.04.57:776][846]LogWorld: UWorld::CleanupWorld for World_29, bSessionEnded=true, bCleanupResources=true
+[2026.11.11-01.04.57:776][846]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.11.11-01.04.57:782][846]LogWorld: UWorld::CleanupWorld for World_20, bSessionEnded=true, bCleanupResources=true
+[2026.11.11-01.04.57:782][846]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.11.11-01.04.57:787][846]LogStudioTelemetry: Ended StudioTelemetry Session
+[2026.11.11-01.04.57:789][846]LogAnalytics: Display: [UEEditor.Rocket.Release] Destroying ET Analytics provider
+[2026.11.11-01.04.57:789][846]LogAnalytics: Display: [UEEditor.Rocket.Release] Ended ET Analytics provider session
+[2026.11.11-01.04.57:789][846]LogAnalytics: Display: [UEEditor.Rocket.Release] Destroyed ET Analytics provider
+[2026.11.11-01.04.58:753][846]LogAudio: Display: Beginning Audio Device Manager Shutdown (Module: AudioMixerXAudio2)...
+[2026.11.11-01.04.58:753][846]LogAudio: Display: Destroying 1 Remaining Audio Device(s)...
+[2026.11.11-01.04.58:753][846]LogAudio: Display: Audio Device unregistered from world 'HelmsDeep'.
+[2026.11.11-01.04.58:753][846]LogAudio: Display: Shutting down audio device while 1 references to it are still alive. For more information, compile with INSTRUMENT_AUDIODEVICE_HANDLES.
+[2026.11.11-01.04.58:753][846]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1
+[2026.11.11-01.04.58:756][846]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1
+[2026.11.11-01.04.58:766][846]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID -1
+[2026.11.11-01.04.58:766][846]LogAudio: Display: Audio Device Manager Shutdown
+[2026.11.11-01.04.58:768][846]LogWindowsTextInputMethodSystem: Activated input method: Español (España, internacional) - (Keyboard).
+[2026.11.11-01.04.58:770][846]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2026.11.11-01.04.58:770][846]LogExit: Preparing to exit.
+[2026.11.11-01.04.58:803][846]LogUObjectHash: Compacting FUObjectHashTables data took   1.57ms
+[2026.11.11-01.04.58:818][846]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/add_controls_for_selected_PY.add_controls_for_selected_options' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.11.11-01.04.58:818][846]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/add_controls_for_selected_PY.add_controls_for_selected' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.11.11-01.04.58:820][846]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/add_null_above_selected_PY.add_null_above_selected' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.11.11-01.04.58:820][846]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_translation_rotation' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.11.11-01.04.58:820][846]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_translation_all' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.11.11-01.04.58:820][846]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_translation_x' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.11.11-01.04.58:820][846]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_translation_y' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.11.11-01.04.58:820][846]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_translation_z' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.11.11-01.04.58:820][846]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_rotation' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.11.11-01.04.58:820][846]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_scale' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.11.11-01.04.58:820][846]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.search_replace_name_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.11.11-01.04.58:820][846]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.search_replace_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.11.11-01.04.58:820][846]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.add_prefix_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.11.11-01.04.58:820][846]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.add_prefix_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.11.11-01.04.58:820][846]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.add_suffix_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.11.11-01.04.58:820][846]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.add_suffix_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.11.11-01.04.58:821][846]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.do_rename_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.11.11-01.04.58:821][846]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.do_rename_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.11.11-01.04.58:821][846]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/set_bone_reference_pose_PY.set_bone_reference_pose' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.11.11-01.04.58:821][846]LogPython: Display: Object '/ControlRig/Python/ControlRigWorkflows/workflow_fbik_import_ik_rig_PY.import_ik_rig_options' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.11.11-01.04.58:821][846]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/add_controls_for_selected_PY.ControlOutputFormat' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.11.11-01.04.59:910][846]LogEditorDataStorage: Deinitializing
+[2026.11.11-01.05.00:087][846]LogDemo: Cleaned up 0 splitscreen connections, owner deletion: enabled
+[2026.11.11-01.05.00:112][846]LogExit: Editor shut down
+[2026.11.11-01.05.00:118][846]LogExit: Transaction tracking system shut down
+[2026.11.11-01.05.00:307][846]LogExit: Object subsystem successfully closed.
+[2026.11.11-01.05.00:383][846]LogShaderCompilers: Display: Shaders left to compile 0
+[2026.11.11-01.05.00:994][846]LogMemoryProfiler: Shutdown
+[2026.11.11-01.05.00:994][846]LogNetworkingProfiler: Shutdown
+[2026.11.11-01.05.00:994][846]LoadingProfiler: Shutdown
+[2026.11.11-01.05.00:994][846]LogTimingProfiler: Shutdown
+[2026.11.11-01.05.01:387][846]LogChaosDD: Chaos Debug Draw Shutdown
+[2026.11.11-01.05.01:387][846]LogStudioTelemetry: Display: Shutdown StudioTelemetry Module
+[2026.11.11-01.05.01:387][846]LogNFORDenoise: NFORDenoise function shutting down
+[2026.11.11-01.05.01:387][846]RenderDocPlugin: plugin has been unloaded.
+[2026.11.11-01.05.01:405][846]LogHttp: Warning: [FHttpManager::Shutdown] Unbinding delegates for 1 outstanding Http Requests:
+[2026.11.11-01.05.01:406][846]LogHttp: Warning: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B83B87118-406E-E63D-8462-688E3753D16C%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.5.4-40574608%2B%2B%2BUE5%2BRelease-5.5&UserID=42be960a46bf5fa29cc01b8cc557735e%7C915df55a1bec49b883d38eb3742299a4%7C4fec1ab6-3497-421a-8ec5-6fdb4474fa08&AppEnvironment=datacollector-binary&UploadType=eteventstream] refs=[2] status=Processing
+[2026.11.11-01.05.01:953][846]LogEOSSDK: FEOSSDKManager::Shutdown EOS_Shutdown Result=[EOS_Success]
+[2026.11.11-01.05.01:956][846]LogIris: FNetObjectFactoryRegistry::UnregisterFactory is unregistering factory: None name: NetActorFactory id: 0
+[2026.11.11-01.05.01:956][846]LogIris: FNetObjectFactoryRegistry::UnregisterFactory is unregistering factory: None name: NetSubObjectFactory id: 1
+[2026.11.11-01.05.01:956][846]LogPakFile: Destroying PakPlatformFile
+[2026.11.11-01.05.02:271][846]LogD3D12RHI: ~FD3D12DynamicRHI
+[2026.11.11-01.05.02:318][846]LogExit: Exiting.
+[2026.11.11-01.05.03:548][846]Log file closed, 11/10/26 22:05:03
