@@ -7666,3 +7666,1086 @@ Make sure '/Game/Animation/ABP_Player.ABP_Player_C' has been compiled for  Get
 [2026.11.11-16.06.05:492][834]LogWorld: UWorld::CleanupWorld for World_84, bSessionEnded=true, bCleanupResources=true
 [2026.11.11-16.06.05:492][834]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
 [2026.11.11-16.06.05:532][834]LogUObjectHash: Compacting FUObjectHashTables data took   1.51ms
+[2026.11.11-16.07.55:012][613]LogSlate: Window 'Delete Variable' being destroyed
+[2026.11.11-16.08.00:647][757]LogUObjectHash: Compacting FUObjectHashTables data took   2.12ms
+[2026.11.11-16.08.02:188][798]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.11.11-16.08.02:294][798]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Animation/ABP_Player] ([2] browsable assets)...
+[2026.11.11-16.08.02:306][798]OBJ SavePackage:     Rendered thumbnail for [AnimBlueprint /Game/Animation/ABP_Player.ABP_Player]
+[2026.11.11-16.08.02:306][798]OBJ SavePackage: Finished generating thumbnails for package [/Game/Animation/ABP_Player]
+[2026.11.11-16.08.02:306][798]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Animation/ABP_Player" FILE="D:/DEV/Unreal/tp1_Elian_Escalante/tp1_Elian_Escalante/Content/Animation/ABP_Player.uasset" SILENT=true
+[2026.11.11-16.08.02:337][798]LogSavePackage: Moving output files for package: /Game/Animation/ABP_Player
+[2026.11.11-16.08.02:338][798]LogSavePackage: Moving 'D:/DEV/Unreal/tp1_Elian_Escalante/tp1_Elian_Escalante/Saved/ABP_Player5E1DDA6F4D51C628869DC69991962DDA.tmp' to 'D:/DEV/Unreal/tp1_Elian_Escalante/tp1_Elian_Escalante/Content/Animation/ABP_Player.uasset'
+[2026.11.11-16.08.02:346][798]LogFileHelpers: InternalPromptForCheckoutAndSave took 158.574 ms (total: 4.12 sec)
+[2026.11.11-16.08.02:412][798]LogContentValidation: Display: Starting to validate 1 assets
+[2026.11.11-16.08.02:412][798]LogContentValidation: Enabled validators:
+[2026.11.11-16.08.02:412][798]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.11.11-16.08.02:412][798]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.11.11-16.08.02:412][798]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.11.11-16.08.02:412][798]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.11.11-16.08.02:412][798]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.11.11-16.08.02:412][798]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.11.11-16.08.02:412][798]AssetCheck: /Game/Animation/ABP_Player Validating asset
+[2026.11.11-16.08.04:743][863]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.11.11-16.08.04:761][863]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.11.11-16.08.04:761][863]LogPlayLevel: Display: Creating online subsystem for client :Context_90
+[2026.11.11-16.08.04:765][863]LogOnline: OSS: Created online subsystem instance for: :Context_90
+[2026.11.11-16.08.04:811][864]LogPlayLevel: Creating play world package: /Game/Scene/UEDPIE_0_HelmsDeep
+[2026.11.11-16.08.04:821][864]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009172s)
+[2026.11.11-16.08.04:821][864]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Scene/HelmsDeep.HelmsDeep to /Game/Scene/UEDPIE_0_HelmsDeep.HelmsDeep (0.009241s)
+[2026.11.11-16.08.04:847][864]LogUObjectHash: Compacting FUObjectHashTables data took   1.69ms
+[2026.11.11-16.08.04:850][864]LogChaosDD: Creating Chaos Debug Draw Scene for world HelmsDeep
+[2026.11.11-16.08.04:852][864]LogPlayLevel: PIE: World Init took: (0.001920s)
+[2026.11.11-16.08.04:853][864]LogAudio: Display: Creating Audio Device:                 Id: 5, Scope: Unique, Realtime: True
+[2026.11.11-16.08.04:853][864]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.11.11-16.08.04:853][864]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.11.11-16.08.04:853][864]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.11.11-16.08.04:853][864]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.11.11-16.08.04:853][864]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.11.11-16.08.04:853][864]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.11.11-16.08.04:853][864]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.11.11-16.08.04:853][864]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.11.11-16.08.04:853][864]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.11.11-16.08.04:853][864]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.11.11-16.08.04:853][864]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.11.11-16.08.04:855][864]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.11.11-16.08.04:884][864]LogAudioMixer: Display: Using Audio Hardware Device M2550D (NVIDIA High Definition Audio)
+[2026.11.11-16.08.04:885][864]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.11.11-16.08.04:885][864]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.11.11-16.08.04:885][864]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.11.11-16.08.04:885][864]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=5
+[2026.11.11-16.08.04:885][864]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=5
+[2026.11.11-16.08.04:888][864]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=5
+[2026.11.11-16.08.04:888][864]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=5
+[2026.11.11-16.08.04:888][864]LogInit: FAudioDevice initialized with ID 5.
+[2026.11.11-16.08.04:888][864]LogAudio: Display: Audio Device (ID: 5) registered with world 'HelmsDeep'.
+[2026.11.11-16.08.04:888][864]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 5
+[2026.11.11-16.08.04:889][864]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2026.11.11-16.08.04:892][864]LogWorld: Bringing World /Game/Scene/UEDPIE_0_HelmsDeep.HelmsDeep up for play (max tick rate 0) at 2026.11.11-13.08.04
+[2026.11.11-16.08.04:893][864]LogWorld: Bringing up level for play took: 0.002984
+[2026.11.11-16.08.04:899][864]PIE: Server logged in
+[2026.11.11-16.08.04:900][864]PIE: Play in editor total start time 0.14 seconds.
+[2026.11.11-16.08.07:464][952]LogCharacterMovement: BP_Player_C_0 is stuck and failed to move! Velocity: X=-591.09 Y=-103.00 Z=0.00 Location: X=1765.88 Y=4821.25 Z=32.95 Normal: X=0.69 Y=0.57 Z=-0.46 PenetrationDepth:9.981 Actor:BP_Arrow_C_1 Component:ArrowMesh BoneName:None (0 other events since notify)
+[2026.11.11-16.08.08:479][988]LogCharacterMovement: BP_Player_C_0 is stuck and failed to move! Velocity: X=-498.05 Y=334.59 Z=0.00 Location: X=1769.08 Y=4856.21 Z=32.63 Normal: X=0.96 Y=-0.15 Z=-0.24 PenetrationDepth:12.328 Actor:BP_Arrow_C_1 Component:ArrowMesh BoneName:None (35 other events since notify)
+[2026.11.11-16.08.21:544][463]LogCharacterMovement: BP_Player_C_0 is stuck and failed to move! Velocity: X=1339.44 Y=-21.99 Z=0.00 Location: X=-600.73 Y=12597.99 Z=-539.04 Normal: X=-0.28 Y=-0.78 Z=-0.56 PenetrationDepth:11.560 Actor:BP_Arrow_C_2 Component:ArrowMesh BoneName:None (25 other events since notify)
+[2026.11.11-16.08.39:007][112]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.11.11-16.08.39:008][112]LogWorld: BeginTearingDown for /Game/Scene/UEDPIE_0_HelmsDeep
+[2026.11.11-16.08.39:008][112]LogWorld: UWorld::CleanupWorld for HelmsDeep, bSessionEnded=true, bCleanupResources=true
+[2026.11.11-16.08.39:009][112]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.11.11-16.08.39:039][112]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.11.11-16.08.39:045][112]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.11.11-16.08.39:068][112]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2026.11.11-16.08.39:068][112]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 5
+[2026.11.11-16.08.39:068][112]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=5
+[2026.11.11-16.08.39:096][112]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=5
+[2026.11.11-16.08.39:101][112]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.11.11-16.08.39:105][112]LogUObjectHash: Compacting FUObjectHashTables data took   1.59ms
+[2026.11.11-16.08.39:722][113]LogPlayLevel: Display: Destroying online subsystem :Context_90
+[2026.11.11-16.09.33:034][884]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/AC_BowMechanics.AC_BowMechanics
+[2026.11.11-16.09.33:035][884]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_86
+[2026.11.11-16.10.23:394][279]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/BP_Bow.BP_Bow
+[2026.11.11-16.10.23:394][279]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_87
+[2026.11.11-16.11.36:177][596]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 5693.000977
+[2026.11.11-16.11.37:174][599]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.11.11-16.11.37:174][599]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 5693.666992, Update Interval: 332.991119
+[2026.11.11-16.16.22:925][450]LogBlueprint: Error: [AssetLog] D:\DEV\Unreal\tp1_Elian_Escalante\tp1_Elian_Escalante\Content\Blueprints\AC_BowMechanics.uasset: [Compiler] This blueprint (self) is not a CharacterMovementComponent, therefore ' Target ' must have a connection.
+[2026.11.11-16.16.22:925][450]LogBlueprint: Error: [AssetLog] D:\DEV\Unreal\tp1_Elian_Escalante\tp1_Elian_Escalante\Content\Blueprints\AC_BowMechanics.uasset: [Compiler] This blueprint (self) is not a CharacterMovementComponent, therefore ' Target ' must have a connection.
+[2026.11.11-16.16.22:927][450]LogBlueprint: Error: [AssetLog] D:\DEV\Unreal\tp1_Elian_Escalante\tp1_Elian_Escalante\Content\Blueprints\AC_BowMechanics.uasset: [Compiler] Variable node  Set bOrientRotationToMovement  uses an invalid target.  It may depend on a node that is not connected to the execution chain, and got purged.
+[2026.11.11-16.16.22:927][450]LogBlueprint: Error: [AssetLog] D:\DEV\Unreal\tp1_Elian_Escalante\tp1_Elian_Escalante\Content\Blueprints\AC_BowMechanics.uasset: [Compiler] Variable node  Set bUseControllerDesiredRotation  uses an invalid target.  It may depend on a node that is not connected to the execution chain, and got purged.
+[2026.11.11-16.16.23:671][450]LogUObjectHash: Compacting FUObjectHashTables data took   1.56ms
+[2026.11.11-16.16.34:256][733]LogUObjectHash: Compacting FUObjectHashTables data took   1.61ms
+[2026.11.11-16.16.35:255][758]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.11.11-16.16.35:367][758]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/AC_BowMechanics] ([2] browsable assets)...
+[2026.11.11-16.16.35:367][758]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/AC_BowMechanics]
+[2026.11.11-16.16.35:367][758]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/AC_BowMechanics" FILE="D:/DEV/Unreal/tp1_Elian_Escalante/tp1_Elian_Escalante/Content/Blueprints/AC_BowMechanics.uasset" SILENT=true
+[2026.11.11-16.16.35:904][758]LogSavePackage: Moving output files for package: /Game/Blueprints/AC_BowMechanics
+[2026.11.11-16.16.35:905][758]LogSavePackage: Moving 'D:/DEV/Unreal/tp1_Elian_Escalante/tp1_Elian_Escalante/Saved/AC_BowMechanics6F31038A48FFACF9F946ADB9B96AE934.tmp' to 'D:/DEV/Unreal/tp1_Elian_Escalante/tp1_Elian_Escalante/Content/Blueprints/AC_BowMechanics.uasset'
+[2026.11.11-16.16.35:924][758]LogFileHelpers: InternalPromptForCheckoutAndSave took 668.909 ms (total: 4.79 sec)
+[2026.11.11-16.16.35:983][758]LogContentValidation: Display: Starting to validate 1 assets
+[2026.11.11-16.16.35:983][758]LogContentValidation: Enabled validators:
+[2026.11.11-16.16.35:983][758]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.11.11-16.16.35:983][758]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.11.11-16.16.35:983][758]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.11.11-16.16.35:983][758]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.11.11-16.16.35:983][758]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.11.11-16.16.35:983][758]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.11.11-16.16.35:983][758]AssetCheck: /Game/Blueprints/AC_BowMechanics Validating asset
+[2026.11.11-16.17.04:632][495]LogEditorTransaction: Undo Move Nodes
+[2026.11.11-16.17.04:979][495]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_73:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2026.11.11-16.17.04:992][495]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_67:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2026.11.11-16.17.46:201][586]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 6063.010254
+[2026.11.11-16.17.46:910][589]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.11.11-16.17.46:910][589]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 6063.697266, Update Interval: 326.807465
+[2026.11.11-16.20.02:231][ 11]LogUObjectHash: Compacting FUObjectHashTables data took   1.76ms
+[2026.11.11-16.20.03:235][ 33]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.11.11-16.20.03:341][ 33]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/AC_BowMechanics] ([2] browsable assets)...
+[2026.11.11-16.20.03:341][ 33]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/AC_BowMechanics]
+[2026.11.11-16.20.03:341][ 33]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/AC_BowMechanics" FILE="D:/DEV/Unreal/tp1_Elian_Escalante/tp1_Elian_Escalante/Content/Blueprints/AC_BowMechanics.uasset" SILENT=true
+[2026.11.11-16.20.03:366][ 33]LogSavePackage: Moving output files for package: /Game/Blueprints/AC_BowMechanics
+[2026.11.11-16.20.03:367][ 33]LogSavePackage: Moving 'D:/DEV/Unreal/tp1_Elian_Escalante/tp1_Elian_Escalante/Saved/AC_BowMechanicsA545301A400699E3B6C845BC61C80938.tmp' to 'D:/DEV/Unreal/tp1_Elian_Escalante/tp1_Elian_Escalante/Content/Blueprints/AC_BowMechanics.uasset'
+[2026.11.11-16.20.03:376][ 33]LogFileHelpers: InternalPromptForCheckoutAndSave took 141.117 ms (total: 4.93 sec)
+[2026.11.11-16.20.03:442][ 33]LogContentValidation: Display: Starting to validate 1 assets
+[2026.11.11-16.20.03:442][ 33]LogContentValidation: Enabled validators:
+[2026.11.11-16.20.03:442][ 33]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.11.11-16.20.03:442][ 33]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.11.11-16.20.03:442][ 33]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.11.11-16.20.03:442][ 33]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.11.11-16.20.03:442][ 33]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.11.11-16.20.03:442][ 33]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.11.11-16.20.03:443][ 33]AssetCheck: /Game/Blueprints/AC_BowMechanics Validating asset
+[2026.11.11-16.22.58:511][ 13]LogBlueprint: Error: [AssetLog] D:\DEV\Unreal\tp1_Elian_Escalante\tp1_Elian_Escalante\Content\Blueprints\AC_BowMechanics.uasset: [Compiler] This blueprint (self) is not a CharacterMovementComponent, therefore ' Target ' must have a connection.
+[2026.11.11-16.22.58:511][ 13]LogBlueprint: Error: [AssetLog] D:\DEV\Unreal\tp1_Elian_Escalante\tp1_Elian_Escalante\Content\Blueprints\AC_BowMechanics.uasset: [Compiler] This blueprint (self) is not a CharacterMovementComponent, therefore ' Target ' must have a connection.
+[2026.11.11-16.22.58:514][ 13]LogBlueprint: Error: [AssetLog] D:\DEV\Unreal\tp1_Elian_Escalante\tp1_Elian_Escalante\Content\Blueprints\AC_BowMechanics.uasset: [Compiler] Variable node  Set bOrientRotationToMovement  uses an invalid target.  It may depend on a node that is not connected to the execution chain, and got purged.
+[2026.11.11-16.22.58:514][ 13]LogBlueprint: Error: [AssetLog] D:\DEV\Unreal\tp1_Elian_Escalante\tp1_Elian_Escalante\Content\Blueprints\AC_BowMechanics.uasset: [Compiler] Variable node  Set bOrientRotationToMovement  uses an invalid target.  It may depend on a node that is not connected to the execution chain, and got purged.
+[2026.11.11-16.22.58:586][ 13]LogUObjectHash: Compacting FUObjectHashTables data took   1.66ms
+[2026.11.11-16.23.10:927][361]LogUObjectHash: Compacting FUObjectHashTables data took   1.57ms
+[2026.11.11-16.23.12:292][396]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.11.11-16.23.12:400][396]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/AC_BowMechanics] ([2] browsable assets)...
+[2026.11.11-16.23.12:400][396]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/AC_BowMechanics]
+[2026.11.11-16.23.12:400][396]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/AC_BowMechanics" FILE="D:/DEV/Unreal/tp1_Elian_Escalante/tp1_Elian_Escalante/Content/Blueprints/AC_BowMechanics.uasset" SILENT=true
+[2026.11.11-16.23.12:425][396]LogSavePackage: Moving output files for package: /Game/Blueprints/AC_BowMechanics
+[2026.11.11-16.23.12:426][396]LogSavePackage: Moving 'D:/DEV/Unreal/tp1_Elian_Escalante/tp1_Elian_Escalante/Saved/AC_BowMechanics071D66F148DCB2BE07662A981E7627B6.tmp' to 'D:/DEV/Unreal/tp1_Elian_Escalante/tp1_Elian_Escalante/Content/Blueprints/AC_BowMechanics.uasset'
+[2026.11.11-16.23.12:436][396]LogFileHelpers: InternalPromptForCheckoutAndSave took 144.025 ms (total: 5.08 sec)
+[2026.11.11-16.23.12:499][396]LogContentValidation: Display: Starting to validate 1 assets
+[2026.11.11-16.23.12:499][396]LogContentValidation: Enabled validators:
+[2026.11.11-16.23.12:499][396]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.11.11-16.23.12:499][396]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.11.11-16.23.12:499][396]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.11.11-16.23.12:499][396]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.11.11-16.23.12:499][396]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.11.11-16.23.12:499][396]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.11.11-16.23.12:499][396]AssetCheck: /Game/Blueprints/AC_BowMechanics Validating asset
+[2026.11.11-16.23.16:704][512]LogUObjectHash: Compacting FUObjectHashTables data took   1.84ms
+[2026.11.11-16.23.17:493][530]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.11.11-16.23.17:604][530]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/AC_BowMechanics] ([2] browsable assets)...
+[2026.11.11-16.23.17:604][530]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/AC_BowMechanics]
+[2026.11.11-16.23.17:604][530]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/AC_BowMechanics" FILE="D:/DEV/Unreal/tp1_Elian_Escalante/tp1_Elian_Escalante/Content/Blueprints/AC_BowMechanics.uasset" SILENT=true
+[2026.11.11-16.23.17:630][530]LogSavePackage: Moving output files for package: /Game/Blueprints/AC_BowMechanics
+[2026.11.11-16.23.17:631][530]LogSavePackage: Moving 'D:/DEV/Unreal/tp1_Elian_Escalante/tp1_Elian_Escalante/Saved/AC_BowMechanics870BA47344C34909F23E65BD150DC3BF.tmp' to 'D:/DEV/Unreal/tp1_Elian_Escalante/tp1_Elian_Escalante/Content/Blueprints/AC_BowMechanics.uasset'
+[2026.11.11-16.23.17:640][530]LogFileHelpers: InternalPromptForCheckoutAndSave took 147.860 ms (total: 5.22 sec)
+[2026.11.11-16.23.17:680][530]LogContentValidation: Display: Starting to validate 1 assets
+[2026.11.11-16.23.17:680][530]LogContentValidation: Enabled validators:
+[2026.11.11-16.23.17:680][530]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.11.11-16.23.17:680][530]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.11.11-16.23.17:680][530]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.11.11-16.23.17:680][530]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.11.11-16.23.17:680][530]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.11.11-16.23.17:680][530]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.11.11-16.23.17:680][530]AssetCheck: /Game/Blueprints/AC_BowMechanics Validating asset
+[2026.11.11-16.23.43:578][172]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.11.11-16.23.43:632][172]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/AC_BowMechanics] ([2] browsable assets)...
+[2026.11.11-16.23.43:632][172]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/AC_BowMechanics]
+[2026.11.11-16.23.43:632][172]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/AC_BowMechanics" FILE="D:/DEV/Unreal/tp1_Elian_Escalante/tp1_Elian_Escalante/Content/Blueprints/AC_BowMechanics.uasset" SILENT=true
+[2026.11.11-16.23.43:656][172]LogSavePackage: Moving output files for package: /Game/Blueprints/AC_BowMechanics
+[2026.11.11-16.23.43:656][172]LogSavePackage: Moving 'D:/DEV/Unreal/tp1_Elian_Escalante/tp1_Elian_Escalante/Saved/AC_BowMechanicsBE169971481F4F1822FAAC9D92B80BAD.tmp' to 'D:/DEV/Unreal/tp1_Elian_Escalante/tp1_Elian_Escalante/Content/Blueprints/AC_BowMechanics.uasset'
+[2026.11.11-16.23.43:665][172]LogFileHelpers: InternalPromptForCheckoutAndSave took 86.871 ms (total: 5.31 sec)
+[2026.11.11-16.23.43:735][172]LogContentValidation: Display: Starting to validate 1 assets
+[2026.11.11-16.23.43:735][172]LogContentValidation: Enabled validators:
+[2026.11.11-16.23.43:735][172]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.11.11-16.23.43:735][172]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.11.11-16.23.43:735][172]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.11.11-16.23.43:735][172]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.11.11-16.23.43:735][172]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.11.11-16.23.43:735][172]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.11.11-16.23.43:735][172]AssetCheck: /Game/Blueprints/AC_BowMechanics Validating asset
+[2026.11.11-16.23.45:085][191]LogSlate: Window 'BP_Bow' being destroyed
+[2026.11.11-16.23.45:092][191]LogSlate: Window 'BP_Bow' being destroyed
+[2026.11.11-16.23.45:111][191]LogWorld: UWorld::CleanupWorld for World_66, bSessionEnded=true, bCleanupResources=true
+[2026.11.11-16.23.45:111][191]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.11.11-16.23.45:150][191]LogWorld: UWorld::CleanupWorld for World_67, bSessionEnded=true, bCleanupResources=true
+[2026.11.11-16.23.45:150][191]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.11.11-16.23.45:256][191]LogWorld: UWorld::CleanupWorld for World_68, bSessionEnded=true, bCleanupResources=true
+[2026.11.11-16.23.45:256][191]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.11.11-16.23.45:270][191]LogWorld: UWorld::CleanupWorld for World_71, bSessionEnded=true, bCleanupResources=true
+[2026.11.11-16.23.45:270][191]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.11.11-16.23.45:355][191]LogWorld: UWorld::CleanupWorld for World_72, bSessionEnded=true, bCleanupResources=true
+[2026.11.11-16.23.45:355][191]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.11.11-16.23.45:387][191]LogWorld: UWorld::CleanupWorld for World_73, bSessionEnded=true, bCleanupResources=true
+[2026.11.11-16.23.45:387][191]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.11.11-16.23.45:501][191]LogWorld: UWorld::CleanupWorld for World_74, bSessionEnded=true, bCleanupResources=true
+[2026.11.11-16.23.45:501][191]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.11.11-16.23.45:517][191]LogWorld: UWorld::CleanupWorld for World_86, bSessionEnded=true, bCleanupResources=true
+[2026.11.11-16.23.45:518][191]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.11.11-16.23.45:600][191]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2026.11.11-16.23.45:600][191]LogWorld: UWorld::CleanupWorld for World_87, bSessionEnded=true, bCleanupResources=true
+[2026.11.11-16.23.45:600][191]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.11.11-16.23.45:704][191]LogUObjectHash: Compacting FUObjectHashTables data took   1.71ms
+[2026.11.11-16.23.47:256][245]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.11.11-16.23.47:267][245]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.11.11-16.23.47:267][245]LogPlayLevel: Display: Creating online subsystem for client :Context_93
+[2026.11.11-16.23.47:270][245]LogOnline: OSS: Created online subsystem instance for: :Context_93
+[2026.11.11-16.23.47:302][246]LogPlayLevel: Creating play world package: /Game/Scene/UEDPIE_0_HelmsDeep
+[2026.11.11-16.23.47:310][246]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008078s)
+[2026.11.11-16.23.47:310][246]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Scene/HelmsDeep.HelmsDeep to /Game/Scene/UEDPIE_0_HelmsDeep.HelmsDeep (0.008121s)
+[2026.11.11-16.23.47:338][246]LogUObjectHash: Compacting FUObjectHashTables data took   1.50ms
+[2026.11.11-16.23.47:340][246]LogChaosDD: Creating Chaos Debug Draw Scene for world HelmsDeep
+[2026.11.11-16.23.47:342][246]LogPlayLevel: PIE: World Init took: (0.001824s)
+[2026.11.11-16.23.47:343][246]LogAudio: Display: Creating Audio Device:                 Id: 6, Scope: Unique, Realtime: True
+[2026.11.11-16.23.47:343][246]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.11.11-16.23.47:343][246]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.11.11-16.23.47:343][246]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.11.11-16.23.47:343][246]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.11.11-16.23.47:343][246]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.11.11-16.23.47:343][246]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.11.11-16.23.47:343][246]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.11.11-16.23.47:343][246]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.11.11-16.23.47:343][246]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.11.11-16.23.47:343][246]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.11.11-16.23.47:343][246]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.11.11-16.23.47:347][246]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.11.11-16.23.47:370][246]LogAudioMixer: Display: Using Audio Hardware Device M2550D (NVIDIA High Definition Audio)
+[2026.11.11-16.23.47:370][246]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.11.11-16.23.47:371][246]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.11.11-16.23.47:371][246]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.11.11-16.23.47:371][246]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=6
+[2026.11.11-16.23.47:371][246]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=6
+[2026.11.11-16.23.47:374][246]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=6
+[2026.11.11-16.23.47:374][246]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=6
+[2026.11.11-16.23.47:374][246]LogInit: FAudioDevice initialized with ID 6.
+[2026.11.11-16.23.47:374][246]LogAudio: Display: Audio Device (ID: 6) registered with world 'HelmsDeep'.
+[2026.11.11-16.23.47:374][246]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 6
+[2026.11.11-16.23.47:377][246]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2026.11.11-16.23.47:379][246]LogWorld: Bringing World /Game/Scene/UEDPIE_0_HelmsDeep.HelmsDeep up for play (max tick rate 0) at 2026.11.11-13.23.47
+[2026.11.11-16.23.47:380][246]LogWorld: Bringing up level for play took: 0.002773
+[2026.11.11-16.23.47:385][246]PIE: Server logged in
+[2026.11.11-16.23.47:386][246]PIE: Play in editor total start time 0.118 seconds.
+[2026.11.11-16.23.48:902][294]LogCharacterMovement: BP_Player_C_0 is stuck and failed to move! Velocity: X=-175.10 Y=0.00 Z=0.00 Location: X=1986.16 Y=4819.04 Z=28.97 Normal: X=0.47 Y=0.60 Z=-0.65 PenetrationDepth:11.076 Actor:BP_Arrow_C_0 Component:ArrowMesh BoneName:None (0 other events since notify)
+[2026.11.11-16.23.55:112][506]LogCharacterMovement: BP_Player_C_0 is stuck and failed to move! Velocity: X=-484.96 Y=-353.29 Z=0.00 Location: X=1193.99 Y=4602.50 Z=42.47 Normal: X=0.82 Y=0.55 Z=-0.16 PenetrationDepth:10.738 Actor:BP_Arrow_C_1 Component:ArrowMesh BoneName:None (23 other events since notify)
+[2026.11.11-16.23.57:131][582]LogCharacterMovement: BP_Player_C_0 is stuck and failed to move! Velocity: X=-27.99 Y=-32.99 Z=0.00 Location: X=2129.15 Y=4210.02 Z=29.46 Normal: X=0.80 Y=-0.16 Z=-0.58 PenetrationDepth:12.795 Actor:BP_Arrow_C_1 Component:ArrowMesh BoneName:None (27 other events since notify)
+[2026.11.11-16.23.58:142][621]LogCharacterMovement: BP_Player_C_0 is stuck and failed to move! Velocity: X=218.53 Y=-558.79 Z=0.00 Location: X=2090.13 Y=4167.58 Z=25.34 Normal: X=-0.95 Y=0.11 Z=-0.29 PenetrationDepth:12.665 Actor:BP_Arrow_C_1 Component:ArrowMesh BoneName:None (36 other events since notify)
+[2026.11.11-16.24.00:364][697]LogCharacterMovement: BP_Player_C_0 is stuck and failed to move! Velocity: X=-548.41 Y=243.41 Z=0.00 Location: X=854.61 Y=3315.09 Z=-149.80 Normal: X=-0.40 Y=-0.91 Z=-0.12 PenetrationDepth:2.425 Actor:BP_Arrow_C_1 Component:ArrowMesh BoneName:None (6 other events since notify)
+[2026.11.11-16.24.05:244][885]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 6442.055176
+[2026.11.11-16.24.05:491][895]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.11.11-16.24.05:491][895]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 6442.278320, Update Interval: 302.442688
+[2026.11.11-16.24.08:252][988]LogCharacterMovement: BP_Player_C_0 is stuck and failed to move! Velocity: X=-14.45 Y=-198.19 Z=0.00 Location: X=-3127.50 Y=3879.30 Z=14.24 Normal: X=0.17 Y=0.75 Z=-0.63 PenetrationDepth:13.743 Actor:BP_Arrow_C_2 Component:ArrowMesh BoneName:None (15 other events since notify)
+[2026.11.11-16.24.10:854][ 97]LogCharacterMovement: BP_Player_C_0 is stuck and failed to move! Velocity: X=-483.24 Y=218.62 Z=0.00 Location: X=-2043.26 Y=5988.25 Z=43.38 Normal: X=0.57 Y=0.79 Z=-0.23 PenetrationDepth:3.395 Actor:BP_Arrow_C_2 Component:ArrowMesh BoneName:None (18 other events since notify)
+[2026.11.11-16.24.11:876][139]LogCharacterMovement: BP_Player_C_0 is stuck and failed to move! Velocity: X=-982.43 Y=186.61 Z=0.00 Location: X=-1939.88 Y=5854.80 Z=43.32 Normal: X=0.38 Y=-0.87 Z=-0.31 PenetrationDepth:14.456 Actor:BP_Arrow_C_2 Component:ArrowMesh BoneName:None (35 other events since notify)
+[2026.11.11-16.24.13:181][183]LogCharacterMovement: BP_Player_C_0 is stuck and failed to move! Velocity: X=-44.99 Y=36.13 Z=0.00 Location: X=-2265.65 Y=4892.92 Z=52.40 Normal: X=0.02 Y=-0.72 Z=-0.69 PenetrationDepth:14.273 Actor:BP_Arrow_C_2 Component:ArrowMesh BoneName:None (9 other events since notify)
+[2026.11.11-16.24.14:508][232]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.11.11-16.24.14:508][232]LogWorld: BeginTearingDown for /Game/Scene/UEDPIE_0_HelmsDeep
+[2026.11.11-16.24.14:508][232]LogWorld: UWorld::CleanupWorld for HelmsDeep, bSessionEnded=true, bCleanupResources=true
+[2026.11.11-16.24.14:509][232]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.11.11-16.24.14:526][232]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.11.11-16.24.14:532][232]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.11.11-16.24.14:552][232]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.11.11-16.24.14:553][232]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 6
+[2026.11.11-16.24.14:553][232]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=6
+[2026.11.11-16.24.14:555][232]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=6
+[2026.11.11-16.24.14:564][232]LogUObjectHash: Compacting FUObjectHashTables data took   1.67ms
+[2026.11.11-16.24.14:641][233]LogPlayLevel: Display: Destroying online subsystem :Context_93
+[2026.11.11-16.24.22:026][330]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.11.11-16.24.22:154][330]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Scene/HelmsDeep" FILE="D:/DEV/Unreal/tp1_Elian_Escalante/tp1_Elian_Escalante/Content/Scene/HelmsDeep.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2026.11.11-16.24.22:219][330]LogUObjectHash: Compacting FUObjectHashTables data took   1.95ms
+[2026.11.11-16.24.22:390][330]LogSavePackage: Moving output files for package: /Game/Scene/HelmsDeep
+[2026.11.11-16.24.22:390][330]LogSavePackage: Moving 'D:/DEV/Unreal/tp1_Elian_Escalante/tp1_Elian_Escalante/Saved/HelmsDeep790285D449F082F90A02FA882E71BBA8.tmp' to 'D:/DEV/Unreal/tp1_Elian_Escalante/tp1_Elian_Escalante/Content/Scene/HelmsDeep.umap'
+[2026.11.11-16.24.22:414][330]LogFileHelpers: Saving map 'HelmsDeep' took 0.261
+[2026.11.11-16.24.22:448][330]LogFileHelpers: InternalPromptForCheckoutAndSave took 421.926 ms (total: 5.73 sec)
+[2026.11.11-16.24.22:520][330]LogContentValidation: Display: Starting to validate 1 assets
+[2026.11.11-16.24.22:520][330]LogContentValidation: Enabled validators:
+[2026.11.11-16.24.22:520][330]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.11.11-16.24.22:520][330]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.11.11-16.24.22:520][330]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.11.11-16.24.22:520][330]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.11.11-16.24.22:520][330]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.11.11-16.24.22:520][330]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.11.11-16.24.22:520][330]AssetCheck: /Game/Scene/HelmsDeep Validating asset
+[2026.11.11-16.25.54:926][784]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_88
+[2026.11.11-16.26.01:711][ 30]LogAssetEditorSubsystem: Opening Asset editor for AnimBlueprint /Game/Animation/ABP_Player.ABP_Player
+[2026.11.11-16.26.01:711][ 30]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_89
+[2026.11.11-16.26.01:742][ 30]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_90
+[2026.11.11-16.26.01:758][ 30]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_90:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2026.11.11-16.26.02:320][ 30]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_91
+[2026.11.11-16.26.47:260][144]LogAssetEditorSubsystem: Opening Asset editor for AnimSequence /Game/Animation/Player_Aim_Idle.Player_Aim_Idle
+[2026.11.11-16.26.47:260][144]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_92
+[2026.11.11-16.26.47:284][144]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_92:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2026.11.11-16.26.47:530][144]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_93
+[2026.11.11-16.26.47:938][144]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_94
+[2026.11.11-16.26.51:945][230]LogWorld: UWorld::CleanupWorld for World_94, bSessionEnded=true, bCleanupResources=true
+[2026.11.11-16.26.51:945][230]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.11.11-16.26.51:964][230]LogWorld: UWorld::CleanupWorld for World_92, bSessionEnded=true, bCleanupResources=true
+[2026.11.11-16.26.51:964][230]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.11.11-16.26.52:072][230]LogWorld: UWorld::CleanupWorld for World_93, bSessionEnded=true, bCleanupResources=true
+[2026.11.11-16.26.52:072][230]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.11.11-16.26.52:179][230]LogUObjectHash: Compacting FUObjectHashTables data took   1.38ms
+[2026.11.11-16.29.47:386][322]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 6784.176270
+[2026.11.11-16.29.47:663][332]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.11.11-16.29.47:663][332]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 6784.417480, Update Interval: 357.786194
+[2026.11.11-16.31.15:792][980]LogUObjectHash: Compacting FUObjectHashTables data took   1.59ms
+[2026.11.11-16.31.16:705][  5]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.11.11-16.31.16:800][  5]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Animation/ABP_Player] ([2] browsable assets)...
+[2026.11.11-16.31.16:812][  5]OBJ SavePackage:     Rendered thumbnail for [AnimBlueprint /Game/Animation/ABP_Player.ABP_Player]
+[2026.11.11-16.31.16:812][  5]OBJ SavePackage: Finished generating thumbnails for package [/Game/Animation/ABP_Player]
+[2026.11.11-16.31.16:812][  5]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Animation/ABP_Player" FILE="D:/DEV/Unreal/tp1_Elian_Escalante/tp1_Elian_Escalante/Content/Animation/ABP_Player.uasset" SILENT=true
+[2026.11.11-16.31.16:844][  5]LogSavePackage: Moving output files for package: /Game/Animation/ABP_Player
+[2026.11.11-16.31.16:844][  5]LogSavePackage: Moving 'D:/DEV/Unreal/tp1_Elian_Escalante/tp1_Elian_Escalante/Saved/ABP_Player352461F44025ABD694F4EBA1561174C7.tmp' to 'D:/DEV/Unreal/tp1_Elian_Escalante/tp1_Elian_Escalante/Content/Animation/ABP_Player.uasset'
+[2026.11.11-16.31.16:855][  5]LogFileHelpers: InternalPromptForCheckoutAndSave took 149.729 ms (total: 5.88 sec)
+[2026.11.11-16.31.16:917][  5]LogContentValidation: Display: Starting to validate 1 assets
+[2026.11.11-16.31.16:918][  5]LogContentValidation: Enabled validators:
+[2026.11.11-16.31.16:918][  5]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.11.11-16.31.16:918][  5]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.11.11-16.31.16:918][  5]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.11.11-16.31.16:918][  5]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.11.11-16.31.16:918][  5]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.11.11-16.31.16:918][  5]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.11.11-16.31.16:918][  5]AssetCheck: /Game/Animation/ABP_Player Validating asset
+[2026.11.11-16.31.18:928][ 73]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.11.11-16.31.18:941][ 73]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.11.11-16.31.18:944][ 73]LogPlayLevel: Display: Creating online subsystem for client :Context_101
+[2026.11.11-16.31.18:944][ 73]LogOnline: OSS: Created online subsystem instance for: :Context_101
+[2026.11.11-16.31.18:990][ 74]LogPlayLevel: Creating play world package: /Game/Scene/UEDPIE_0_HelmsDeep
+[2026.11.11-16.31.18:998][ 74]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008508s)
+[2026.11.11-16.31.18:998][ 74]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Scene/HelmsDeep.HelmsDeep to /Game/Scene/UEDPIE_0_HelmsDeep.HelmsDeep (0.008586s)
+[2026.11.11-16.31.19:024][ 74]LogUObjectHash: Compacting FUObjectHashTables data took   1.69ms
+[2026.11.11-16.31.19:029][ 74]LogChaosDD: Creating Chaos Debug Draw Scene for world HelmsDeep
+[2026.11.11-16.31.19:032][ 74]LogPlayLevel: PIE: World Init took: (0.001901s)
+[2026.11.11-16.31.19:032][ 74]LogAudio: Display: Creating Audio Device:                 Id: 7, Scope: Unique, Realtime: True
+[2026.11.11-16.31.19:032][ 74]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.11.11-16.31.19:032][ 74]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.11.11-16.31.19:032][ 74]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.11.11-16.31.19:032][ 74]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.11.11-16.31.19:032][ 74]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.11.11-16.31.19:032][ 74]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.11.11-16.31.19:032][ 74]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.11.11-16.31.19:032][ 74]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.11.11-16.31.19:032][ 74]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.11.11-16.31.19:032][ 74]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.11.11-16.31.19:032][ 74]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.11.11-16.31.19:034][ 74]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.11.11-16.31.19:060][ 74]LogAudioMixer: Display: Using Audio Hardware Device M2550D (NVIDIA High Definition Audio)
+[2026.11.11-16.31.19:061][ 74]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.11.11-16.31.19:061][ 74]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.11.11-16.31.19:061][ 74]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.11.11-16.31.19:062][ 74]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=7
+[2026.11.11-16.31.19:062][ 74]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=7
+[2026.11.11-16.31.19:066][ 74]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=7
+[2026.11.11-16.31.19:066][ 74]LogInit: FAudioDevice initialized with ID 7.
+[2026.11.11-16.31.19:066][ 74]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=7
+[2026.11.11-16.31.19:066][ 74]LogAudio: Display: Audio Device (ID: 7) registered with world 'HelmsDeep'.
+[2026.11.11-16.31.19:066][ 74]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 7
+[2026.11.11-16.31.19:069][ 74]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2026.11.11-16.31.19:072][ 74]LogWorld: Bringing World /Game/Scene/UEDPIE_0_HelmsDeep.HelmsDeep up for play (max tick rate 0) at 2026.11.11-13.31.19
+[2026.11.11-16.31.19:073][ 74]LogWorld: Bringing up level for play took: 0.003109
+[2026.11.11-16.31.19:079][ 74]PIE: Server logged in
+[2026.11.11-16.31.19:080][ 74]PIE: Play in editor total start time 0.139 seconds.
+[2026.11.11-16.31.22:542][173]LogCharacterMovement: BP_Player_C_0 is stuck and failed to move! Velocity: X=-97.38 Y=18.66 Z=0.00 Location: X=1989.81 Y=4811.56 Z=28.89 Normal: X=0.53 Y=0.45 Z=-0.72 PenetrationDepth:13.542 Actor:BP_Arrow_C_0 Component:ArrowMesh BoneName:None (0 other events since notify)
+[2026.11.11-16.31.23:544][203]LogCharacterMovement: BP_Player_C_0 is stuck and failed to move! Velocity: X=-182.39 Y=-571.60 Z=0.00 Location: X=1990.52 Y=4811.95 Z=28.79 Normal: X=0.72 Y=0.64 Z=-0.27 PenetrationDepth:14.334 Actor:BP_Arrow_C_0 Component:ArrowMesh BoneName:None (29 other events since notify)
+[2026.11.11-16.31.25:025][246]LogCharacterMovement: BP_Player_C_0 is stuck and failed to move! Velocity: X=-284.38 Y=528.33 Z=0.00 Location: X=2795.61 Y=5130.11 Z=28.13 Normal: X=0.86 Y=0.44 Z=-0.28 PenetrationDepth:13.781 Actor:BP_Arrow_C_0 Component:ArrowMesh BoneName:None (4 other events since notify)
+[2026.11.11-16.31.26:032][274]LogCharacterMovement: BP_Player_C_0 is stuck and failed to move! Velocity: X=23.09 Y=599.56 Z=0.00 Location: X=2769.51 Y=5063.64 Z=26.58 Normal: X=-0.86 Y=-0.43 Z=-0.29 PenetrationDepth:13.770 Actor:BP_Arrow_C_0 Component:ArrowMesh BoneName:None (25 other events since notify)
+[2026.11.11-16.31.28:043][336]LogCharacterMovement: BP_Player_C_0 is stuck and failed to move! Velocity: X=-589.53 Y=111.62 Z=0.00 Location: X=1783.95 Y=5224.87 Z=33.99 Normal: X=0.56 Y=-0.82 Z=-0.14 PenetrationDepth:0.043 Actor:BP_Arrow_C_0 Component:ArrowMesh BoneName:None (5 other events since notify)
+[2026.11.11-16.31.29:888][388]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.11.11-16.31.29:889][388]LogWorld: BeginTearingDown for /Game/Scene/UEDPIE_0_HelmsDeep
+[2026.11.11-16.31.29:889][388]LogWorld: UWorld::CleanupWorld for HelmsDeep, bSessionEnded=true, bCleanupResources=true
+[2026.11.11-16.31.29:889][388]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.11.11-16.31.29:919][388]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.11.11-16.31.29:925][388]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.11.11-16.31.29:949][388]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2026.11.11-16.31.29:949][388]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 7
+[2026.11.11-16.31.29:949][388]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=7
+[2026.11.11-16.31.29:951][388]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=7
+[2026.11.11-16.31.29:956][388]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.11.11-16.31.29:959][388]LogUObjectHash: Compacting FUObjectHashTables data took   1.68ms
+[2026.11.11-16.31.30:041][389]LogPlayLevel: Display: Destroying online subsystem :Context_101
+[2026.11.11-16.31.46:969][776]LogUObjectHash: Compacting FUObjectHashTables data took   1.44ms
+[2026.11.11-16.31.48:236][814]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.11.11-16.31.48:336][814]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Animation/ABP_Player] ([2] browsable assets)...
+[2026.11.11-16.31.48:355][814]OBJ SavePackage:     Rendered thumbnail for [AnimBlueprint /Game/Animation/ABP_Player.ABP_Player]
+[2026.11.11-16.31.48:355][814]OBJ SavePackage: Finished generating thumbnails for package [/Game/Animation/ABP_Player]
+[2026.11.11-16.31.48:355][814]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Animation/ABP_Player" FILE="D:/DEV/Unreal/tp1_Elian_Escalante/tp1_Elian_Escalante/Content/Animation/ABP_Player.uasset" SILENT=true
+[2026.11.11-16.31.48:387][814]LogSavePackage: Moving output files for package: /Game/Animation/ABP_Player
+[2026.11.11-16.31.48:388][814]LogSavePackage: Moving 'D:/DEV/Unreal/tp1_Elian_Escalante/tp1_Elian_Escalante/Saved/ABP_PlayerE452964D4016D5B3FE76A5B7BDD578D1.tmp' to 'D:/DEV/Unreal/tp1_Elian_Escalante/tp1_Elian_Escalante/Content/Animation/ABP_Player.uasset'
+[2026.11.11-16.31.48:402][814]LogFileHelpers: InternalPromptForCheckoutAndSave took 165.546 ms (total: 6.05 sec)
+[2026.11.11-16.31.48:466][814]LogContentValidation: Display: Starting to validate 1 assets
+[2026.11.11-16.31.48:466][814]LogContentValidation: Enabled validators:
+[2026.11.11-16.31.48:466][814]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.11.11-16.31.48:466][814]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.11.11-16.31.48:466][814]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.11.11-16.31.48:466][814]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.11.11-16.31.48:466][814]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.11.11-16.31.48:466][814]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.11.11-16.31.48:466][814]AssetCheck: /Game/Animation/ABP_Player Validating asset
+[2026.11.11-16.31.50:764][895]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.11.11-16.31.50:773][895]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.11.11-16.31.50:773][895]LogPlayLevel: Display: Creating online subsystem for client :Context_102
+[2026.11.11-16.31.50:776][895]LogOnline: OSS: Created online subsystem instance for: :Context_102
+[2026.11.11-16.31.50:806][896]LogPlayLevel: Creating play world package: /Game/Scene/UEDPIE_0_HelmsDeep
+[2026.11.11-16.31.50:816][896]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009205s)
+[2026.11.11-16.31.50:816][896]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Scene/HelmsDeep.HelmsDeep to /Game/Scene/UEDPIE_0_HelmsDeep.HelmsDeep (0.009252s)
+[2026.11.11-16.31.50:841][896]LogUObjectHash: Compacting FUObjectHashTables data took   1.71ms
+[2026.11.11-16.31.50:845][896]LogChaosDD: Creating Chaos Debug Draw Scene for world HelmsDeep
+[2026.11.11-16.31.50:846][896]LogPlayLevel: PIE: World Init took: (0.001786s)
+[2026.11.11-16.31.50:847][896]LogAudio: Display: Creating Audio Device:                 Id: 8, Scope: Unique, Realtime: True
+[2026.11.11-16.31.50:847][896]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.11.11-16.31.50:847][896]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.11.11-16.31.50:847][896]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.11.11-16.31.50:847][896]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.11.11-16.31.50:847][896]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.11.11-16.31.50:847][896]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.11.11-16.31.50:847][896]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.11.11-16.31.50:847][896]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.11.11-16.31.50:847][896]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.11.11-16.31.50:847][896]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.11.11-16.31.50:847][896]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.11.11-16.31.50:850][896]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.11.11-16.31.50:873][896]LogAudioMixer: Display: Using Audio Hardware Device M2550D (NVIDIA High Definition Audio)
+[2026.11.11-16.31.50:873][896]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.11.11-16.31.50:873][896]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.11.11-16.31.50:873][896]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.11.11-16.31.50:874][896]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=8
+[2026.11.11-16.31.50:874][896]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=8
+[2026.11.11-16.31.50:876][896]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=8
+[2026.11.11-16.31.50:876][896]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=8
+[2026.11.11-16.31.50:876][896]LogInit: FAudioDevice initialized with ID 8.
+[2026.11.11-16.31.50:876][896]LogAudio: Display: Audio Device (ID: 8) registered with world 'HelmsDeep'.
+[2026.11.11-16.31.50:876][896]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 8
+[2026.11.11-16.31.50:879][896]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2026.11.11-16.31.50:882][896]LogWorld: Bringing World /Game/Scene/UEDPIE_0_HelmsDeep.HelmsDeep up for play (max tick rate 0) at 2026.11.11-13.31.50
+[2026.11.11-16.31.50:882][896]LogWorld: Bringing up level for play took: 0.002927
+[2026.11.11-16.31.50:888][896]PIE: Server logged in
+[2026.11.11-16.31.50:889][896]PIE: Play in editor total start time 0.116 seconds.
+[2026.11.11-16.31.51:782][921]LogCharacterMovement: BP_Player_C_0 is stuck and failed to move! Velocity: X=-150.26 Y=0.00 Z=0.00 Location: X=1990.59 Y=4811.19 Z=29.36 Normal: X=0.48 Y=0.58 Z=-0.65 PenetrationDepth:13.858 Actor:BP_Arrow_C_0 Component:ArrowMesh BoneName:None (2 other events since notify)
+[2026.11.11-16.31.53:075][960]LogCharacterMovement: BP_Player_C_0 is stuck and failed to move! Velocity: X=-324.58 Y=0.00 Z=0.00 Location: X=1989.16 Y=5093.01 Z=31.64 Normal: X=0.77 Y=0.60 Z=-0.21 PenetrationDepth:0.537 Actor:BP_Arrow_C_0 Component:ArrowMesh BoneName:None (17 other events since notify)
+[2026.11.11-16.31.54:277][996]LogCharacterMovement: BP_Player_C_0 is stuck and failed to move! Velocity: X=-0.00 Y=-8.47 Z=0.00 Location: X=2277.54 Y=5174.17 Z=31.17 Normal: X=0.44 Y=0.62 Z=-0.64 PenetrationDepth:15.786 Actor:BP_Arrow_C_0 Component:ArrowMesh BoneName:None (12 other events since notify)
+[2026.11.11-16.32.02:155][226]LogCharacterMovement: BP_Player_C_0 is stuck and failed to move! Velocity: X=212.81 Y=-339.33 Z=0.00 Location: X=2592.40 Y=5300.95 Z=30.79 Normal: X=0.58 Y=0.78 Z=-0.23 PenetrationDepth:2.865 Actor:BP_Arrow_C_1 Component:ArrowMesh BoneName:None (1 other events since notify)
+[2026.11.11-16.32.04:509][299]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.11.11-16.32.04:509][299]LogWorld: BeginTearingDown for /Game/Scene/UEDPIE_0_HelmsDeep
+[2026.11.11-16.32.04:509][299]LogWorld: UWorld::CleanupWorld for HelmsDeep, bSessionEnded=true, bCleanupResources=true
+[2026.11.11-16.32.04:510][299]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.11.11-16.32.04:523][299]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.11.11-16.32.04:528][299]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.11.11-16.32.04:553][299]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2026.11.11-16.32.04:553][299]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 8
+[2026.11.11-16.32.04:553][299]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=8
+[2026.11.11-16.32.04:556][299]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=8
+[2026.11.11-16.32.04:560][299]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.11.11-16.32.04:564][299]LogUObjectHash: Compacting FUObjectHashTables data took   1.79ms
+[2026.11.11-16.32.04:653][300]LogPlayLevel: Display: Destroying online subsystem :Context_102
+[2026.11.11-16.32.18:022][629]LogUObjectHash: Compacting FUObjectHashTables data took   1.84ms
+[2026.11.11-16.32.19:277][661]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.11.11-16.32.19:369][661]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Animation/ABP_Player] ([2] browsable assets)...
+[2026.11.11-16.32.19:380][661]OBJ SavePackage:     Rendered thumbnail for [AnimBlueprint /Game/Animation/ABP_Player.ABP_Player]
+[2026.11.11-16.32.19:380][661]OBJ SavePackage: Finished generating thumbnails for package [/Game/Animation/ABP_Player]
+[2026.11.11-16.32.19:380][661]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Animation/ABP_Player" FILE="D:/DEV/Unreal/tp1_Elian_Escalante/tp1_Elian_Escalante/Content/Animation/ABP_Player.uasset" SILENT=true
+[2026.11.11-16.32.19:412][661]LogSavePackage: Moving output files for package: /Game/Animation/ABP_Player
+[2026.11.11-16.32.19:412][661]LogSavePackage: Moving 'D:/DEV/Unreal/tp1_Elian_Escalante/tp1_Elian_Escalante/Saved/ABP_PlayerD981678C4F648FAAD596A786C5C0467C.tmp' to 'D:/DEV/Unreal/tp1_Elian_Escalante/tp1_Elian_Escalante/Content/Animation/ABP_Player.uasset'
+[2026.11.11-16.32.19:423][661]LogFileHelpers: InternalPromptForCheckoutAndSave took 145.594 ms (total: 6.19 sec)
+[2026.11.11-16.32.19:486][661]LogContentValidation: Display: Starting to validate 1 assets
+[2026.11.11-16.32.19:487][661]LogContentValidation: Enabled validators:
+[2026.11.11-16.32.19:487][661]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.11.11-16.32.19:487][661]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.11.11-16.32.19:487][661]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.11.11-16.32.19:487][661]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.11.11-16.32.19:487][661]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.11.11-16.32.19:487][661]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.11.11-16.32.19:487][661]AssetCheck: /Game/Animation/ABP_Player Validating asset
+[2026.11.11-16.32.21:875][731]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.11.11-16.32.21:885][731]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.11.11-16.32.21:885][731]LogPlayLevel: Display: Creating online subsystem for client :Context_103
+[2026.11.11-16.32.21:889][731]LogOnline: OSS: Created online subsystem instance for: :Context_103
+[2026.11.11-16.32.21:923][732]LogPlayLevel: Creating play world package: /Game/Scene/UEDPIE_0_HelmsDeep
+[2026.11.11-16.32.21:935][732]LogPlayLevel: PIE: StaticDuplicateObject took: (0.011584s)
+[2026.11.11-16.32.21:935][732]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Scene/HelmsDeep.HelmsDeep to /Game/Scene/UEDPIE_0_HelmsDeep.HelmsDeep (0.011685s)
+[2026.11.11-16.32.21:971][732]LogUObjectHash: Compacting FUObjectHashTables data took   2.02ms
+[2026.11.11-16.32.21:978][732]LogChaosDD: Creating Chaos Debug Draw Scene for world HelmsDeep
+[2026.11.11-16.32.21:982][732]LogPlayLevel: PIE: World Init took: (0.003722s)
+[2026.11.11-16.32.21:984][732]LogAudio: Display: Creating Audio Device:                 Id: 9, Scope: Unique, Realtime: True
+[2026.11.11-16.32.21:984][732]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.11.11-16.32.21:984][732]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.11.11-16.32.21:984][732]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.11.11-16.32.21:984][732]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.11.11-16.32.21:984][732]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.11.11-16.32.21:984][732]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.11.11-16.32.21:984][732]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.11.11-16.32.21:984][732]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.11.11-16.32.21:984][732]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.11.11-16.32.21:984][732]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.11.11-16.32.21:984][732]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.11.11-16.32.21:986][732]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.11.11-16.32.22:011][732]LogAudioMixer: Display: Using Audio Hardware Device M2550D (NVIDIA High Definition Audio)
+[2026.11.11-16.32.22:012][732]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.11.11-16.32.22:012][732]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.11.11-16.32.22:012][732]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.11.11-16.32.22:012][732]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=9
+[2026.11.11-16.32.22:012][732]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=9
+[2026.11.11-16.32.22:015][732]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=9
+[2026.11.11-16.32.22:015][732]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=9
+[2026.11.11-16.32.22:015][732]LogInit: FAudioDevice initialized with ID 9.
+[2026.11.11-16.32.22:015][732]LogAudio: Display: Audio Device (ID: 9) registered with world 'HelmsDeep'.
+[2026.11.11-16.32.22:015][732]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 9
+[2026.11.11-16.32.22:018][732]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2026.11.11-16.32.22:020][732]LogWorld: Bringing World /Game/Scene/UEDPIE_0_HelmsDeep.HelmsDeep up for play (max tick rate 0) at 2026.11.11-13.32.22
+[2026.11.11-16.32.22:021][732]LogWorld: Bringing up level for play took: 0.003326
+[2026.11.11-16.32.22:027][732]PIE: Server logged in
+[2026.11.11-16.32.22:029][732]PIE: Play in editor total start time 0.144 seconds.
+[2026.11.11-16.32.24:110][779]LogCharacterMovement: BP_Player_C_0 is stuck and failed to move! Velocity: X=-97.13 Y=-55.11 Z=0.00 Location: X=2312.46 Y=4542.02 Z=24.49 Normal: X=0.59 Y=-0.34 Z=-0.73 PenetrationDepth:14.400 Actor:BP_Arrow_C_0 Component:ArrowMesh BoneName:None (0 other events since notify)
+[2026.11.11-16.32.25:465][821]LogCharacterMovement: BP_Player_C_0 is stuck and failed to move! Velocity: X=-254.24 Y=-228.92 Z=0.00 Location: X=1985.87 Y=4897.49 Z=29.89 Normal: X=0.98 Y=-0.10 Z=-0.14 PenetrationDepth:3.819 Actor:BP_Arrow_C_0 Component:ArrowMesh BoneName:None (7 other events since notify)
+[2026.11.11-16.32.28:284][906]LogCharacterMovement: BP_Player_C_0 is stuck and failed to move! Velocity: X=-38.72 Y=127.85 Z=0.00 Location: X=2366.15 Y=4432.42 Z=24.13 Normal: X=0.93 Y=-0.04 Z=-0.36 PenetrationDepth:4.765 Actor:BP_Arrow_C_1 Component:ArrowMesh BoneName:None (5 other events since notify)
+[2026.11.11-16.32.30:285][967]LogCharacterMovement: BP_Player_C_0 is stuck and failed to move! Velocity: X=0.23 Y=-281.48 Z=0.00 Location: X=2860.47 Y=4832.09 Z=21.24 Normal: X=0.82 Y=0.13 Z=-0.56 PenetrationDepth:14.486 Actor:BP_Arrow_C_1 Component:ArrowMesh BoneName:None (0 other events since notify)
+[2026.11.11-16.32.33:633][ 66]LogCharacterMovement: BP_Player_C_0 is stuck and failed to move! Velocity: X=-189.99 Y=-178.59 Z=0.00 Location: X=4390.21 Y=3852.55 Z=-76.33 Normal: X=0.83 Y=-0.41 Z=-0.38 PenetrationDepth:7.258 Actor:BP_Arrow_C_1 Component:ArrowMesh BoneName:None (1 other events since notify)
+[2026.11.11-16.32.34:689][100]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.11.11-16.32.34:690][100]LogWorld: BeginTearingDown for /Game/Scene/UEDPIE_0_HelmsDeep
+[2026.11.11-16.32.34:690][100]LogWorld: UWorld::CleanupWorld for HelmsDeep, bSessionEnded=true, bCleanupResources=true
+[2026.11.11-16.32.34:691][100]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.11.11-16.32.34:704][100]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.11.11-16.32.34:710][100]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.11.11-16.32.34:735][100]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2026.11.11-16.32.34:736][100]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 9
+[2026.11.11-16.32.34:736][100]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=9
+[2026.11.11-16.32.34:737][100]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=9
+[2026.11.11-16.32.34:744][100]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.11.11-16.32.34:748][100]LogUObjectHash: Compacting FUObjectHashTables data took   1.77ms
+[2026.11.11-16.32.34:829][101]LogPlayLevel: Display: Destroying online subsystem :Context_103
+[2026.11.11-16.32.45:354][356]LogUObjectHash: Compacting FUObjectHashTables data took   1.39ms
+[2026.11.11-16.32.46:276][379]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.11.11-16.32.46:387][379]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Animation/ABP_Player] ([2] browsable assets)...
+[2026.11.11-16.32.46:397][379]OBJ SavePackage:     Rendered thumbnail for [AnimBlueprint /Game/Animation/ABP_Player.ABP_Player]
+[2026.11.11-16.32.46:397][379]OBJ SavePackage: Finished generating thumbnails for package [/Game/Animation/ABP_Player]
+[2026.11.11-16.32.46:397][379]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Animation/ABP_Player" FILE="D:/DEV/Unreal/tp1_Elian_Escalante/tp1_Elian_Escalante/Content/Animation/ABP_Player.uasset" SILENT=true
+[2026.11.11-16.32.46:428][379]LogSavePackage: Moving output files for package: /Game/Animation/ABP_Player
+[2026.11.11-16.32.46:429][379]LogSavePackage: Moving 'D:/DEV/Unreal/tp1_Elian_Escalante/tp1_Elian_Escalante/Saved/ABP_Player8EA4D3884D6489894F0DCE8B69020084.tmp' to 'D:/DEV/Unreal/tp1_Elian_Escalante/tp1_Elian_Escalante/Content/Animation/ABP_Player.uasset'
+[2026.11.11-16.32.46:440][379]LogFileHelpers: InternalPromptForCheckoutAndSave took 164.443 ms (total: 6.36 sec)
+[2026.11.11-16.32.46:486][379]LogContentValidation: Display: Starting to validate 1 assets
+[2026.11.11-16.32.46:486][379]LogContentValidation: Enabled validators:
+[2026.11.11-16.32.46:486][379]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.11.11-16.32.46:486][379]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.11.11-16.32.46:486][379]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.11.11-16.32.46:486][379]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.11.11-16.32.46:486][379]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.11.11-16.32.46:486][379]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.11.11-16.32.46:486][379]AssetCheck: /Game/Animation/ABP_Player Validating asset
+[2026.11.11-16.32.49:083][441]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.11.11-16.32.49:092][441]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.11.11-16.32.49:093][441]LogPlayLevel: Display: Creating online subsystem for client :Context_104
+[2026.11.11-16.32.49:095][441]LogOnline: OSS: Created online subsystem instance for: :Context_104
+[2026.11.11-16.32.49:126][442]LogPlayLevel: Creating play world package: /Game/Scene/UEDPIE_0_HelmsDeep
+[2026.11.11-16.32.49:134][442]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007179s)
+[2026.11.11-16.32.49:134][442]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Scene/HelmsDeep.HelmsDeep to /Game/Scene/UEDPIE_0_HelmsDeep.HelmsDeep (0.007220s)
+[2026.11.11-16.32.49:167][442]LogUObjectHash: Compacting FUObjectHashTables data took   1.82ms
+[2026.11.11-16.32.49:173][442]LogChaosDD: Creating Chaos Debug Draw Scene for world HelmsDeep
+[2026.11.11-16.32.49:175][442]LogPlayLevel: PIE: World Init took: (0.002433s)
+[2026.11.11-16.32.49:176][442]LogAudio: Display: Creating Audio Device:                 Id: 10, Scope: Unique, Realtime: True
+[2026.11.11-16.32.49:176][442]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.11.11-16.32.49:176][442]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.11.11-16.32.49:176][442]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.11.11-16.32.49:176][442]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.11.11-16.32.49:176][442]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.11.11-16.32.49:176][442]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.11.11-16.32.49:176][442]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.11.11-16.32.49:176][442]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.11.11-16.32.49:176][442]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.11.11-16.32.49:176][442]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.11.11-16.32.49:176][442]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.11.11-16.32.49:178][442]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.11.11-16.32.49:203][442]LogAudioMixer: Display: Using Audio Hardware Device M2550D (NVIDIA High Definition Audio)
+[2026.11.11-16.32.49:204][442]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.11.11-16.32.49:204][442]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.11.11-16.32.49:204][442]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.11.11-16.32.49:204][442]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=10
+[2026.11.11-16.32.49:204][442]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=10
+[2026.11.11-16.32.49:208][442]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=10
+[2026.11.11-16.32.49:208][442]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=10
+[2026.11.11-16.32.49:208][442]LogInit: FAudioDevice initialized with ID 10.
+[2026.11.11-16.32.49:208][442]LogAudio: Display: Audio Device (ID: 10) registered with world 'HelmsDeep'.
+[2026.11.11-16.32.49:208][442]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 10
+[2026.11.11-16.32.49:210][442]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2026.11.11-16.32.49:213][442]LogWorld: Bringing World /Game/Scene/UEDPIE_0_HelmsDeep.HelmsDeep up for play (max tick rate 0) at 2026.11.11-13.32.49
+[2026.11.11-16.32.49:214][442]LogWorld: Bringing up level for play took: 0.003007
+[2026.11.11-16.32.49:219][442]PIE: Server logged in
+[2026.11.11-16.32.49:220][442]PIE: Play in editor total start time 0.128 seconds.
+[2026.11.11-16.32.50:099][468]LogCharacterMovement: BP_Player_C_0 is stuck and failed to move! Velocity: X=-0.00 Y=-185.77 Z=0.00 Location: X=1990.78 Y=4810.12 Z=28.80 Normal: X=0.45 Y=0.66 Z=-0.60 PenetrationDepth:15.220 Actor:BP_Arrow_C_0 Component:ArrowMesh BoneName:None (2 other events since notify)
+[2026.11.11-16.32.52:566][547]LogCharacterMovement: BP_Player_C_0 is stuck and failed to move! Velocity: X=-79.47 Y=-21.07 Z=0.00 Location: X=1980.07 Y=5526.08 Z=35.09 Normal: X=0.78 Y=0.34 Z=-0.53 PenetrationDepth:11.995 Actor:BP_Arrow_C_0 Component:ArrowMesh BoneName:None (9 other events since notify)
+[2026.11.11-16.32.58:852][723]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.11.11-16.32.58:852][723]LogWorld: BeginTearingDown for /Game/Scene/UEDPIE_0_HelmsDeep
+[2026.11.11-16.32.58:852][723]LogWorld: UWorld::CleanupWorld for HelmsDeep, bSessionEnded=true, bCleanupResources=true
+[2026.11.11-16.32.58:854][723]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.11.11-16.32.58:893][723]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.11.11-16.32.58:898][723]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.11.11-16.32.58:919][723]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2026.11.11-16.32.58:919][723]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 10
+[2026.11.11-16.32.58:919][723]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=10
+[2026.11.11-16.32.58:921][723]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=10
+[2026.11.11-16.32.58:927][723]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.11.11-16.32.58:930][723]LogUObjectHash: Compacting FUObjectHashTables data took   1.69ms
+[2026.11.11-16.32.59:013][724]LogPlayLevel: Display: Destroying online subsystem :Context_104
+[2026.11.11-16.33.06:348][878]LogUObjectHash: Compacting FUObjectHashTables data took   1.55ms
+[2026.11.11-16.33.43:258][782]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/BP_Bow.BP_Bow
+[2026.11.11-16.33.43:258][782]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_95
+[2026.11.11-16.33.46:405][857]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_96
+[2026.11.11-16.35.09:525][492]LogUObjectHash: Compacting FUObjectHashTables data took   1.52ms
+[2026.11.11-16.35.09:533][492]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Scene/HelmsDeep' took 0.078
+[2026.11.11-16.35.09:534][492]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Animation/ABP_Player] ([2] browsable assets)...
+[2026.11.11-16.35.09:577][492]OBJ SavePackage:     Rendered thumbnail for [AnimBlueprint /Game/Animation/ABP_Player.ABP_Player]
+[2026.11.11-16.35.09:577][492]OBJ SavePackage: Finished generating thumbnails for package [/Game/Animation/ABP_Player]
+[2026.11.11-16.35.09:577][492]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Animation/ABP_Player" FILE="D:/DEV/Unreal/tp1_Elian_Escalante/tp1_Elian_Escalante/Saved/Autosaves/Game/Animation/ABP_Player_Auto5.uasset" SILENT=false AUTOSAVING=true
+[2026.11.11-16.35.09:610][492]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Animation/ABP_Player_Auto5
+[2026.11.11-16.35.09:610][492]LogSavePackage: Moving 'D:/DEV/Unreal/tp1_Elian_Escalante/tp1_Elian_Escalante/Saved/ABP_Player_Auto523185F0F48C4F9AE292B9C9BA656D970.tmp' to 'D:/DEV/Unreal/tp1_Elian_Escalante/tp1_Elian_Escalante/Saved/Autosaves/Game/Animation/ABP_Player_Auto5.uasset'
+[2026.11.11-16.35.09:611][492]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Animation/Standing_Walk_Right_Anim] ([1] browsable assets)...
+[2026.11.11-16.35.09:611][492]OBJ SavePackage: Finished generating thumbnails for package [/Game/Animation/Standing_Walk_Right_Anim]
+[2026.11.11-16.35.09:618][492]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Animation/Standing_Walk_Right_Anim_Auto5
+[2026.11.11-16.35.09:618][492]LogSavePackage: Moving 'D:/DEV/Unreal/tp1_Elian_Escalante/tp1_Elian_Escalante/Saved/Standing_Walk_Right_Anim_Auto5611F59D34F5BCE146E0720816F2383EA.tmp' to 'D:/DEV/Unreal/tp1_Elian_Escalante/tp1_Elian_Escalante/Saved/Autosaves/Game/Animation/Standing_Walk_Right_Anim_Auto5.uasset'
+[2026.11.11-16.35.09:940][492]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Animation/Paladin_diffuse] ([1] browsable assets)...
+[2026.11.11-16.35.09:940][492]OBJ SavePackage: Finished generating thumbnails for package [/Game/Animation/Paladin_diffuse]
+[2026.11.11-16.35.09:986][492]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Animation/Paladin_diffuse_Auto5
+[2026.11.11-16.35.09:986][492]LogSavePackage: Moving 'D:/DEV/Unreal/tp1_Elian_Escalante/tp1_Elian_Escalante/Saved/Paladin_diffuse_Auto57FDECBE44187887D12B771BF4013DA91.tmp' to 'D:/DEV/Unreal/tp1_Elian_Escalante/tp1_Elian_Escalante/Saved/Autosaves/Game/Animation/Paladin_diffuse_Auto5.uasset'
+[2026.11.11-16.35.09:987][492]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Animation/Paladin_normal] ([1] browsable assets)...
+[2026.11.11-16.35.09:987][492]OBJ SavePackage: Finished generating thumbnails for package [/Game/Animation/Paladin_normal]
+[2026.11.11-16.35.10:027][492]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Animation/Paladin_normal_Auto5
+[2026.11.11-16.35.10:027][492]LogSavePackage: Moving 'D:/DEV/Unreal/tp1_Elian_Escalante/tp1_Elian_Escalante/Saved/Paladin_normal_Auto514627DE3451C79D8291BBC8267857FB2.tmp' to 'D:/DEV/Unreal/tp1_Elian_Escalante/tp1_Elian_Escalante/Saved/Autosaves/Game/Animation/Paladin_normal_Auto5.uasset'
+[2026.11.11-16.35.10:028][492]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Animation/Paladin_specular] ([1] browsable assets)...
+[2026.11.11-16.35.10:028][492]OBJ SavePackage: Finished generating thumbnails for package [/Game/Animation/Paladin_specular]
+[2026.11.11-16.35.10:056][492]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Animation/Paladin_specular_Auto5
+[2026.11.11-16.35.10:056][492]LogSavePackage: Moving 'D:/DEV/Unreal/tp1_Elian_Escalante/tp1_Elian_Escalante/Saved/Paladin_specular_Auto5AF5E5651438E35FF977530B18F723FFA.tmp' to 'D:/DEV/Unreal/tp1_Elian_Escalante/tp1_Elian_Escalante/Saved/Autosaves/Game/Animation/Paladin_specular_Auto5.uasset'
+[2026.11.11-16.35.10:057][492]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/StarterContent/Materials/M_Metal_Gold] ([1] browsable assets)...
+[2026.11.11-16.35.10:057][492]OBJ SavePackage: Finished generating thumbnails for package [/Game/StarterContent/Materials/M_Metal_Gold]
+[2026.11.11-16.35.10:061][492]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/StarterContent/Materials/M_Metal_Gold_Auto5
+[2026.11.11-16.35.10:061][492]LogSavePackage: Moving 'D:/DEV/Unreal/tp1_Elian_Escalante/tp1_Elian_Escalante/Saved/M_Metal_Gold_Auto51C1C01904DFA7274A579A78D16AA51BF.tmp' to 'D:/DEV/Unreal/tp1_Elian_Escalante/tp1_Elian_Escalante/Saved/Autosaves/Game/StarterContent/Materials/M_Metal_Gold_Auto5.uasset'
+[2026.11.11-16.35.10:062][492]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Animation/Standing_Aim_Idle_01_PhysicsAsset] ([1] browsable assets)...
+[2026.11.11-16.35.10:062][492]OBJ SavePackage: Finished generating thumbnails for package [/Game/Animation/Standing_Aim_Idle_01_PhysicsAsset]
+[2026.11.11-16.35.10:066][492]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Animation/Standing_Aim_Idle_01_PhysicsAsset_Auto5
+[2026.11.11-16.35.10:066][492]LogSavePackage: Moving 'D:/DEV/Unreal/tp1_Elian_Escalante/tp1_Elian_Escalante/Saved/Standing_Aim_Idle_01_PhysicsAsseACA164E945F4FF40DABFFBA3C13A1062.tmp' to 'D:/DEV/Unreal/tp1_Elian_Escalante/tp1_Elian_Escalante/Saved/Autosaves/Game/Animation/Standing_Aim_Idle_01_PhysicsAsset_Auto5.uasset'
+[2026.11.11-16.35.10:068][492]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Animation/Standing_Aim_Idle_01] ([1] browsable assets)...
+[2026.11.11-16.35.10:068][492]OBJ SavePackage: Finished generating thumbnails for package [/Game/Animation/Standing_Aim_Idle_01]
+[2026.11.11-16.35.10:089][492]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Animation/Standing_Aim_Idle_01_Auto5
+[2026.11.11-16.35.10:089][492]LogSavePackage: Moving 'D:/DEV/Unreal/tp1_Elian_Escalante/tp1_Elian_Escalante/Saved/Standing_Aim_Idle_01_Auto598FBFFD54EFE7E1AF89A2294D2204413.tmp' to 'D:/DEV/Unreal/tp1_Elian_Escalante/tp1_Elian_Escalante/Saved/Autosaves/Game/Animation/Standing_Aim_Idle_01_Auto5.uasset'
+[2026.11.11-16.35.10:090][492]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Animation/Standing_Walk_Back_PhysicsAsset] ([1] browsable assets)...
+[2026.11.11-16.35.10:090][492]OBJ SavePackage: Finished generating thumbnails for package [/Game/Animation/Standing_Walk_Back_PhysicsAsset]
+[2026.11.11-16.35.10:094][492]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Animation/Standing_Walk_Back_PhysicsAsset_Auto5
+[2026.11.11-16.35.10:094][492]LogSavePackage: Moving 'D:/DEV/Unreal/tp1_Elian_Escalante/tp1_Elian_Escalante/Saved/Standing_Walk_Back_PhysicsAsset_B78A05904FB82648EED5ECB4BB1242F4.tmp' to 'D:/DEV/Unreal/tp1_Elian_Escalante/tp1_Elian_Escalante/Saved/Autosaves/Game/Animation/Standing_Walk_Back_PhysicsAsset_Auto5.uasset'
+[2026.11.11-16.35.10:095][492]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Animation/Standing_Walk_Back] ([1] browsable assets)...
+[2026.11.11-16.35.10:096][492]OBJ SavePackage: Finished generating thumbnails for package [/Game/Animation/Standing_Walk_Back]
+[2026.11.11-16.35.10:117][492]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Animation/Standing_Walk_Back_Auto5
+[2026.11.11-16.35.10:117][492]LogSavePackage: Moving 'D:/DEV/Unreal/tp1_Elian_Escalante/tp1_Elian_Escalante/Saved/Standing_Walk_Back_Auto5115329E340B1B02513B7E0A3EF2143E3.tmp' to 'D:/DEV/Unreal/tp1_Elian_Escalante/tp1_Elian_Escalante/Saved/Autosaves/Game/Animation/Standing_Walk_Back_Auto5.uasset'
+[2026.11.11-16.35.10:118][492]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Animation/Standing_Walk_Back_Anim] ([1] browsable assets)...
+[2026.11.11-16.35.10:118][492]OBJ SavePackage: Finished generating thumbnails for package [/Game/Animation/Standing_Walk_Back_Anim]
+[2026.11.11-16.35.10:125][492]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Animation/Standing_Walk_Back_Anim_Auto5
+[2026.11.11-16.35.10:125][492]LogSavePackage: Moving 'D:/DEV/Unreal/tp1_Elian_Escalante/tp1_Elian_Escalante/Saved/Standing_Walk_Back_Anim_Auto5F35FE40A46745E8AC6EF1FAB02D668AE.tmp' to 'D:/DEV/Unreal/tp1_Elian_Escalante/tp1_Elian_Escalante/Saved/Autosaves/Game/Animation/Standing_Walk_Back_Anim_Auto5.uasset'
+[2026.11.11-16.35.10:126][492]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Animation/Standing_Walk_Left_PhysicsAsset] ([1] browsable assets)...
+[2026.11.11-16.35.10:126][492]OBJ SavePackage: Finished generating thumbnails for package [/Game/Animation/Standing_Walk_Left_PhysicsAsset]
+[2026.11.11-16.35.10:129][492]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Animation/Standing_Walk_Left_PhysicsAsset_Auto5
+[2026.11.11-16.35.10:129][492]LogSavePackage: Moving 'D:/DEV/Unreal/tp1_Elian_Escalante/tp1_Elian_Escalante/Saved/Standing_Walk_Left_PhysicsAsset_E165372C4DA06474596A53BC1AD32F3A.tmp' to 'D:/DEV/Unreal/tp1_Elian_Escalante/tp1_Elian_Escalante/Saved/Autosaves/Game/Animation/Standing_Walk_Left_PhysicsAsset_Auto5.uasset'
+[2026.11.11-16.35.10:131][492]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Animation/Standing_Walk_Left] ([1] browsable assets)...
+[2026.11.11-16.35.10:131][492]OBJ SavePackage: Finished generating thumbnails for package [/Game/Animation/Standing_Walk_Left]
+[2026.11.11-16.35.10:157][492]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Animation/Standing_Walk_Left_Auto5
+[2026.11.11-16.35.10:157][492]LogSavePackage: Moving 'D:/DEV/Unreal/tp1_Elian_Escalante/tp1_Elian_Escalante/Saved/Standing_Walk_Left_Auto57B1FBDF5474D9B6E3FC4C29361F0B79C.tmp' to 'D:/DEV/Unreal/tp1_Elian_Escalante/tp1_Elian_Escalante/Saved/Autosaves/Game/Animation/Standing_Walk_Left_Auto5.uasset'
+[2026.11.11-16.35.10:197][492]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Animation/Standing_Walk_Left_Anim] ([1] browsable assets)...
+[2026.11.11-16.35.10:197][492]OBJ SavePackage: Finished generating thumbnails for package [/Game/Animation/Standing_Walk_Left_Anim]
+[2026.11.11-16.35.10:217][492]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Animation/Standing_Walk_Left_Anim_Auto5
+[2026.11.11-16.35.10:218][492]LogSavePackage: Moving 'D:/DEV/Unreal/tp1_Elian_Escalante/tp1_Elian_Escalante/Saved/Standing_Walk_Left_Anim_Auto56F3D3C284668FD8D209208A966F09024.tmp' to 'D:/DEV/Unreal/tp1_Elian_Escalante/tp1_Elian_Escalante/Saved/Autosaves/Game/Animation/Standing_Walk_Left_Anim_Auto5.uasset'
+[2026.11.11-16.35.10:218][492]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Animation/Standing_Walk_Right_PhysicsAsset] ([1] browsable assets)...
+[2026.11.11-16.35.10:219][492]OBJ SavePackage: Finished generating thumbnails for package [/Game/Animation/Standing_Walk_Right_PhysicsAsset]
+[2026.11.11-16.35.10:223][492]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Animation/Standing_Walk_Right_PhysicsAsset_Auto5
+[2026.11.11-16.35.10:223][492]LogSavePackage: Moving 'D:/DEV/Unreal/tp1_Elian_Escalante/tp1_Elian_Escalante/Saved/Standing_Walk_Right_PhysicsAsset866E47A6472A4440F3ECCB9C382829B1.tmp' to 'D:/DEV/Unreal/tp1_Elian_Escalante/tp1_Elian_Escalante/Saved/Autosaves/Game/Animation/Standing_Walk_Right_PhysicsAsset_Auto5.uasset'
+[2026.11.11-16.35.10:225][492]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Animation/Standing_Walk_Right] ([1] browsable assets)...
+[2026.11.11-16.35.10:225][492]OBJ SavePackage: Finished generating thumbnails for package [/Game/Animation/Standing_Walk_Right]
+[2026.11.11-16.35.10:250][492]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Animation/Standing_Walk_Right_Auto5
+[2026.11.11-16.35.10:250][492]LogSavePackage: Moving 'D:/DEV/Unreal/tp1_Elian_Escalante/tp1_Elian_Escalante/Saved/Standing_Walk_Right_Auto581D488F5420D04A2CC726DBB71C76981.tmp' to 'D:/DEV/Unreal/tp1_Elian_Escalante/tp1_Elian_Escalante/Saved/Autosaves/Game/Animation/Standing_Walk_Right_Auto5.uasset'
+[2026.11.11-16.35.10:251][492]LogFileHelpers: Auto-saving content packages took 0.718
+[2026.11.11-16.35.21:139][571]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/BP_Arrow.BP_Arrow
+[2026.11.11-16.35.21:139][571]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_97
+[2026.11.11-16.35.26:220][664]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_98
+[2026.11.11-16.35.56:093][197]LogUObjectHash: Compacting FUObjectHashTables data took   1.94ms
+[2026.11.11-16.35.58:299][258]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.11.11-16.35.58:430][258]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/BP_Arrow] ([2] browsable assets)...
+[2026.11.11-16.35.58:464][258]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/BP_Arrow.BP_Arrow]
+[2026.11.11-16.35.58:464][258]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BP_Arrow]
+[2026.11.11-16.35.58:464][258]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Arrow" FILE="D:/DEV/Unreal/tp1_Elian_Escalante/tp1_Elian_Escalante/Content/Blueprints/BP_Arrow.uasset" SILENT=true
+[2026.11.11-16.35.58:470][258]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_Arrow
+[2026.11.11-16.35.58:471][258]LogSavePackage: Moving 'D:/DEV/Unreal/tp1_Elian_Escalante/tp1_Elian_Escalante/Saved/BP_ArrowABC593C84F8787FCE277EB92A05AA5F0.tmp' to 'D:/DEV/Unreal/tp1_Elian_Escalante/tp1_Elian_Escalante/Content/Blueprints/BP_Arrow.uasset'
+[2026.11.11-16.35.58:862][258]LogFileHelpers: InternalPromptForCheckoutAndSave took 563.135 ms (total: 6.92 sec)
+[2026.11.11-16.35.58:930][258]LogContentValidation: Display: Starting to validate 1 assets
+[2026.11.11-16.35.58:930][258]LogContentValidation: Enabled validators:
+[2026.11.11-16.35.58:930][258]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.11.11-16.35.58:930][258]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.11.11-16.35.58:930][258]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.11.11-16.35.58:930][258]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.11.11-16.35.58:930][258]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.11.11-16.35.58:930][258]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.11.11-16.35.58:931][258]AssetCheck: /Game/Blueprints/BP_Arrow Validating asset
+[2026.11.11-16.36.00:772][314]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.11.11-16.36.00:781][314]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.11.11-16.36.00:781][314]LogPlayLevel: Display: Creating online subsystem for client :Context_109
+[2026.11.11-16.36.00:784][314]LogOnline: OSS: Created online subsystem instance for: :Context_109
+[2026.11.11-16.36.00:815][315]LogPlayLevel: Creating play world package: /Game/Scene/UEDPIE_0_HelmsDeep
+[2026.11.11-16.36.00:823][315]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008603s)
+[2026.11.11-16.36.00:823][315]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Scene/HelmsDeep.HelmsDeep to /Game/Scene/UEDPIE_0_HelmsDeep.HelmsDeep (0.008662s)
+[2026.11.11-16.36.00:860][315]LogUObjectHash: Compacting FUObjectHashTables data took   1.83ms
+[2026.11.11-16.36.00:865][315]LogChaosDD: Creating Chaos Debug Draw Scene for world HelmsDeep
+[2026.11.11-16.36.00:866][315]LogPlayLevel: PIE: World Init took: (0.001749s)
+[2026.11.11-16.36.00:867][315]LogAudio: Display: Creating Audio Device:                 Id: 11, Scope: Unique, Realtime: True
+[2026.11.11-16.36.00:867][315]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.11.11-16.36.00:867][315]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.11.11-16.36.00:867][315]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.11.11-16.36.00:867][315]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.11.11-16.36.00:867][315]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.11.11-16.36.00:867][315]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.11.11-16.36.00:867][315]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.11.11-16.36.00:867][315]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.11.11-16.36.00:867][315]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.11.11-16.36.00:867][315]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.11.11-16.36.00:867][315]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.11.11-16.36.00:870][315]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.11.11-16.36.00:894][315]LogAudioMixer: Display: Using Audio Hardware Device M2550D (NVIDIA High Definition Audio)
+[2026.11.11-16.36.00:894][315]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.11.11-16.36.00:894][315]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.11.11-16.36.00:894][315]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.11.11-16.36.00:895][315]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=11
+[2026.11.11-16.36.00:895][315]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=11
+[2026.11.11-16.36.00:897][315]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=11
+[2026.11.11-16.36.00:898][315]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=11
+[2026.11.11-16.36.00:898][315]LogInit: FAudioDevice initialized with ID 11.
+[2026.11.11-16.36.00:898][315]LogAudio: Display: Audio Device (ID: 11) registered with world 'HelmsDeep'.
+[2026.11.11-16.36.00:898][315]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 11
+[2026.11.11-16.36.00:900][315]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2026.11.11-16.36.00:903][315]LogWorld: Bringing World /Game/Scene/UEDPIE_0_HelmsDeep.HelmsDeep up for play (max tick rate 0) at 2026.11.11-13.36.00
+[2026.11.11-16.36.00:904][315]LogWorld: Bringing up level for play took: 0.002912
+[2026.11.11-16.36.00:909][315]PIE: Server logged in
+[2026.11.11-16.36.00:910][315]PIE: Play in editor total start time 0.129 seconds.
+[2026.11.11-16.36.22:230][ 84]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.11.11-16.36.22:230][ 84]LogWorld: BeginTearingDown for /Game/Scene/UEDPIE_0_HelmsDeep
+[2026.11.11-16.36.22:230][ 84]LogWorld: UWorld::CleanupWorld for HelmsDeep, bSessionEnded=true, bCleanupResources=true
+[2026.11.11-16.36.22:231][ 84]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.11.11-16.36.22:242][ 84]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.11.11-16.36.22:251][ 84]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.11.11-16.36.22:274][ 84]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2026.11.11-16.36.22:275][ 84]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 11
+[2026.11.11-16.36.22:275][ 84]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=11
+[2026.11.11-16.36.22:277][ 84]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=11
+[2026.11.11-16.36.22:280][ 84]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.11.11-16.36.22:285][ 84]LogUObjectHash: Compacting FUObjectHashTables data took   1.65ms
+[2026.11.11-16.36.22:364][ 85]LogPlayLevel: Display: Destroying online subsystem :Context_109
+[2026.11.11-16.36.24:009][149]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.11.11-16.36.24:112][149]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Scene/HelmsDeep" FILE="D:/DEV/Unreal/tp1_Elian_Escalante/tp1_Elian_Escalante/Content/Scene/HelmsDeep.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2026.11.11-16.36.24:157][149]LogUObjectHash: Compacting FUObjectHashTables data took   1.73ms
+[2026.11.11-16.36.24:250][149]LogSavePackage: Moving output files for package: /Game/Scene/HelmsDeep
+[2026.11.11-16.36.24:250][149]LogSavePackage: Moving 'D:/DEV/Unreal/tp1_Elian_Escalante/tp1_Elian_Escalante/Saved/HelmsDeepC9CAC9AE41A739F1D4E78FA0B4F314A6.tmp' to 'D:/DEV/Unreal/tp1_Elian_Escalante/tp1_Elian_Escalante/Content/Scene/HelmsDeep.umap'
+[2026.11.11-16.36.24:264][149]LogFileHelpers: Saving map 'HelmsDeep' took 0.152
+[2026.11.11-16.36.24:286][149]LogFileHelpers: InternalPromptForCheckoutAndSave took 276.778 ms (total: 7.20 sec)
+[2026.11.11-16.36.24:352][149]LogContentValidation: Display: Starting to validate 1 assets
+[2026.11.11-16.36.24:352][149]LogContentValidation: Enabled validators:
+[2026.11.11-16.36.24:352][149]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.11.11-16.36.24:352][149]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.11.11-16.36.24:352][149]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.11.11-16.36.24:352][149]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.11.11-16.36.24:352][149]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.11.11-16.36.24:352][149]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.11.11-16.36.24:352][149]AssetCheck: /Game/Scene/HelmsDeep Validating asset
+[2026.11.11-16.36.32:018][198]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 7188.803223
+[2026.11.11-16.36.33:022][201]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.11.11-16.36.33:022][201]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 7189.472168, Update Interval: 344.629669
+[2026.11.11-16.37.58:057][454]LogDerivedDataCache: C:/Users/Elian/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2026.11.11-16.38.00:406][570]LogAssetEditorSubsystem: Opening Asset editor for AnimSequence /Game/Animation/Standing_Walk_Forward_Anim.Standing_Walk_Forward_Anim
+[2026.11.11-16.38.00:407][570]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_99
+[2026.11.11-16.38.00:425][570]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_99:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2026.11.11-16.38.00:761][570]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_100
+[2026.11.11-16.38.01:375][570]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_101
+[2026.11.11-16.38.04:982][651]LogWorld: UWorld::CleanupWorld for World_101, bSessionEnded=true, bCleanupResources=true
+[2026.11.11-16.38.04:982][651]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.11.11-16.38.05:010][651]LogWorld: UWorld::CleanupWorld for World_99, bSessionEnded=true, bCleanupResources=true
+[2026.11.11-16.38.05:010][651]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.11.11-16.38.05:113][651]LogWorld: UWorld::CleanupWorld for World_100, bSessionEnded=true, bCleanupResources=true
+[2026.11.11-16.38.05:114][651]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.11.11-16.38.05:200][651]LogUObjectHash: Compacting FUObjectHashTables data took   1.39ms
+[2026.11.11-16.38.19:586][354]LogAssetEditorSubsystem: Opening Asset editor for AnimSequence /Game/Animation/Player_Jump_Anim.Player_Jump_Anim
+[2026.11.11-16.38.19:587][354]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_102
+[2026.11.11-16.38.19:628][354]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_102:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2026.11.11-16.38.19:992][354]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_103
+[2026.11.11-16.38.20:565][354]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_104
+[2026.11.11-16.38.23:178][431]LogWorld: UWorld::CleanupWorld for World_104, bSessionEnded=true, bCleanupResources=true
+[2026.11.11-16.38.23:178][431]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.11.11-16.38.23:195][431]LogWorld: UWorld::CleanupWorld for World_102, bSessionEnded=true, bCleanupResources=true
+[2026.11.11-16.38.23:195][431]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.11.11-16.38.23:299][431]LogWorld: UWorld::CleanupWorld for World_103, bSessionEnded=true, bCleanupResources=true
+[2026.11.11-16.38.23:299][431]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.11.11-16.38.23:412][431]LogUObjectHash: Compacting FUObjectHashTables data took   1.37ms
+[2026.11.11-16.38.26:502][529]Cmd: DELETE
+[2026.11.11-16.38.26:502][529]Cmd: ACTOR DELETE
+[2026.11.11-16.38.27:041][529]LogEditorActor: Deleted Actor: Landscape
+[2026.11.11-16.38.27:163][529]LogUObjectHash: Compacting FUObjectHashTables data took   1.53ms
+[2026.11.11-16.38.27:167][529]LogEditorActor: Deleted 1 Actors (0.228 secs)
+[2026.11.11-16.38.31:570][735]Cmd: TRANSACTION UNDO
+[2026.11.11-16.38.31:571][735]LogEditorTransaction: Undo Delete Elements
+[2026.11.11-16.38.31:670][735]LogDeviceProfileManager: Going up to parent DeviceProfile []
+[2026.11.11-16.38.31:770][735]LogDeviceProfileManager: Going up to parent DeviceProfile []
+[2026.11.11-16.38.31:775][735]LogDeviceProfileManager: Going up to parent DeviceProfile []
+[2026.11.11-16.38.31:791][735]LogDeviceProfileManager: Going up to parent DeviceProfile [AppleTV]
+[2026.11.11-16.38.31:791][735]LogDeviceProfileManager: Going up to parent DeviceProfile [IOS]
+[2026.11.11-16.38.31:792][735]LogDeviceProfileManager: Going up to parent DeviceProfile []
+[2026.11.11-16.38.31:799][735]LogDeviceProfileManager: Display: Deviceprofile None not found.
+[2026.11.11-16.38.32:281][735]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_90:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2026.11.11-16.38.35:559][847]LogUObjectHash: Compacting FUObjectHashTables data took   1.32ms
+[2026.11.11-16.38.37:067][847]LogSlate: Window 'Delete Assets' being destroyed
+[2026.11.11-16.38.37:168][847]LogUObjectGlobals: Force Deleting 1 Package(s):
+	Asset Name: /Game/Animation/Player_Jump_Anim.Player_Jump_Anim
+	Asset Type: AnimSequence
+[2026.11.11-16.38.38:214][847]LogUObjectHash: Compacting FUObjectHashTables data took   1.72ms
+[2026.11.11-16.38.38:240][847]LogUObjectHash: Compacting FUObjectHashTables data took   1.47ms
+[2026.11.11-16.38.38:265][847]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2026.11.11-16.39.14:595][341]LogAssetEditorSubsystem: Opening Asset editor for AnimSequence /Game/Animation/Standing_Walk_Right_Anim.Standing_Walk_Right_Anim
+[2026.11.11-16.39.14:595][341]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_105
+[2026.11.11-16.39.14:604][341]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_105:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2026.11.11-16.39.14:951][341]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_106
+[2026.11.11-16.39.15:553][341]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_107
+[2026.11.11-16.39.17:512][390]LogWorld: UWorld::CleanupWorld for World_107, bSessionEnded=true, bCleanupResources=true
+[2026.11.11-16.39.17:513][390]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.11.11-16.39.17:527][390]LogWorld: UWorld::CleanupWorld for World_105, bSessionEnded=true, bCleanupResources=true
+[2026.11.11-16.39.17:527][390]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.11.11-16.39.17:637][390]LogWorld: UWorld::CleanupWorld for World_106, bSessionEnded=true, bCleanupResources=true
+[2026.11.11-16.39.17:638][390]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.11.11-16.39.17:728][390]LogUObjectHash: Compacting FUObjectHashTables data took   1.45ms
+[2026.11.11-16.39.21:956][548]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.11.11-16.39.22:052][548]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Scene/HelmsDeep" FILE="D:/DEV/Unreal/tp1_Elian_Escalante/tp1_Elian_Escalante/Content/Scene/HelmsDeep.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2026.11.11-16.39.22:105][548]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2026.11.11-16.39.23:271][548]LogLandscape: Successful export of raw static mesh for Nanite landscape (1 components) for actor Landscape : (DDC: 1, DDC read: 0 bytes, DDC write: 36716304 bytes, key: EF63247DEBBDCECCFB446DA758E3F4E1750D942F, export: 0.999943 seconds, commit: 0.163829 seconds)
+[2026.11.11-16.39.23:277][548]LogStaticMesh: Display: Building static mesh LandscapeNaniteMesh_0 (Required Memory Estimate: 245.107773 MB)...
+[2026.11.11-16.39.23:519][548]LogStaticMesh: Adjacency [0.01s], tris: 129032, UVs 4
+[2026.11.11-16.39.23:609][548]LogStaticMesh: Clustering [0.09s]. Ratio: 1.014866
+[2026.11.11-16.39.23:642][548]LogStaticMesh: Leaves [0.03s]
+[2026.11.11-16.39.25:509][548]LogStaticMesh: Reduce [1.87s]
+[2026.11.11-16.39.25:977][548]LogStaticMesh: Fallback [0.47s], num tris: 9502
+[2026.11.11-16.39.26:005][548]LogStaticMesh: ConstrainClusters:
+[2026.11.11-16.39.26:005][548]LogStaticMesh:   Input: 2104 Clusters, 265023 Triangles and 172913 Vertices
+[2026.11.11-16.39.26:005][548]LogStaticMesh:   Output without splits: 2104 Clusters, 265023 Triangles and 179079 Vertices
+[2026.11.11-16.39.26:005][548]LogStaticMesh:   Output with splits: 2104 Clusters, 265023 Triangles and 179079 Vertices
+[2026.11.11-16.39.26:008][548]LogStaticMesh: Material Stats - Unique Materials: 1, Fast Path Clusters: 2104, Slow Path Clusters: 0, 1 Material: 2104, 2 Materials: 0, 3 Materials: 0, At Least 4 Materials: 0
+[2026.11.11-16.39.26:034][548]LogStaticMesh: WritePages:
+[2026.11.11-16.39.26:034][548]LogStaticMesh:   Root: GPU size: 32372 bytes. 1 Pages. 32372.000 bytes per page (98.792% utilization).
+[2026.11.11-16.39.26:034][548]LogStaticMesh:   Streaming: GPU size: 4121416 bytes. 32 Pages (30 with relative encoding). 128794.250 bytes per page (98.262% utilization).
+[2026.11.11-16.39.26:034][548]LogStaticMesh:   Page data disk size: 3365876 bytes. Fixup data size: 14048 bytes.
+[2026.11.11-16.39.26:034][548]LogStaticMesh:   Total GPU size: 4153788 bytes, Total disk size: 3379924 bytes.
+[2026.11.11-16.39.26:035][548]LogStaticMesh: Encode [0.06s]
+[2026.11.11-16.39.26:035][548]LogStaticMesh: Nanite build [2.54s]
+
+[2026.11.11-16.39.26:125][548]LogStaticMesh: Built static mesh [2.85s] /Game/Scene/HelmsDeep.LandscapeNaniteMesh_0
+[2026.11.11-16.39.26:319][548]LogSavePackage: Moving output files for package: /Game/Scene/HelmsDeep
+[2026.11.11-16.39.26:319][548]LogSavePackage: Moving 'D:/DEV/Unreal/tp1_Elian_Escalante/tp1_Elian_Escalante/Saved/HelmsDeep02759DDC459792D0D729DF9490BD8195.tmp' to 'D:/DEV/Unreal/tp1_Elian_Escalante/tp1_Elian_Escalante/Content/Scene/HelmsDeep.umap'
+[2026.11.11-16.39.26:340][548]LogFileHelpers: Saving map 'HelmsDeep' took 4.289
+[2026.11.11-16.39.26:350][548]LogFileHelpers: InternalPromptForCheckoutAndSave took 4.39 sec (total: 11.5 sec)
+[2026.11.11-16.39.26:430][548]LogContentValidation: Display: Starting to validate 1 assets
+[2026.11.11-16.39.26:430][548]LogContentValidation: Enabled validators:
+[2026.11.11-16.39.26:430][548]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.11.11-16.39.26:430][548]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.11.11-16.39.26:430][548]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.11.11-16.39.26:430][548]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.11.11-16.39.26:430][548]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.11.11-16.39.26:430][548]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.11.11-16.39.26:431][548]AssetCheck: /Game/Scene/HelmsDeep Validating asset
+[2026.11.11-16.39.27:831][592]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2026.11.11-16.39.29:291][592]LogSlate: Window 'Save Content' being destroyed
+[2026.11.11-16.39.29:319][592]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.11.11-16.39.29:407][592]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Animation/ABP_Player] ([2] browsable assets)...
+[2026.11.11-16.39.29:407][592]OBJ SavePackage: Finished generating thumbnails for package [/Game/Animation/ABP_Player]
+[2026.11.11-16.39.29:407][592]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Animation/ABP_Player" FILE="D:/DEV/Unreal/tp1_Elian_Escalante/tp1_Elian_Escalante/Content/Animation/ABP_Player.uasset" SILENT=true
+[2026.11.11-16.39.29:442][592]LogSavePackage: Moving output files for package: /Game/Animation/ABP_Player
+[2026.11.11-16.39.29:442][592]LogSavePackage: Moving 'D:/DEV/Unreal/tp1_Elian_Escalante/tp1_Elian_Escalante/Saved/ABP_PlayerB19E7B5D494DEC590C33AFAE4EEB0B6E.tmp' to 'D:/DEV/Unreal/tp1_Elian_Escalante/tp1_Elian_Escalante/Content/Animation/ABP_Player.uasset'
+[2026.11.11-16.39.29:443][592]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/StarterContent/Materials/M_Metal_Gold] ([1] browsable assets)...
+[2026.11.11-16.39.29:444][592]OBJ SavePackage: Finished generating thumbnails for package [/Game/StarterContent/Materials/M_Metal_Gold]
+[2026.11.11-16.39.29:444][592]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StarterContent/Materials/M_Metal_Gold" FILE="D:/DEV/Unreal/tp1_Elian_Escalante/tp1_Elian_Escalante/Content/StarterContent/Materials/M_Metal_Gold.uasset" SILENT=true
+[2026.11.11-16.39.29:447][592]LogSavePackage: Moving output files for package: /Game/StarterContent/Materials/M_Metal_Gold
+[2026.11.11-16.39.29:447][592]LogSavePackage: Moving 'D:/DEV/Unreal/tp1_Elian_Escalante/tp1_Elian_Escalante/Saved/M_Metal_GoldD131C4D846991CBA70AE5692F2A60DE6.tmp' to 'D:/DEV/Unreal/tp1_Elian_Escalante/tp1_Elian_Escalante/Content/StarterContent/Materials/M_Metal_Gold.uasset'
+[2026.11.11-16.39.29:494][592]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Animation/Paladin_diffuse] ([1] browsable assets)...
+[2026.11.11-16.39.29:494][592]OBJ SavePackage: Finished generating thumbnails for package [/Game/Animation/Paladin_diffuse]
+[2026.11.11-16.39.29:494][592]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Animation/Paladin_diffuse" FILE="D:/DEV/Unreal/tp1_Elian_Escalante/tp1_Elian_Escalante/Content/Animation/Paladin_diffuse.uasset" SILENT=true
+[2026.11.11-16.39.29:528][592]LogSavePackage: Moving output files for package: /Game/Animation/Paladin_diffuse
+[2026.11.11-16.39.29:529][592]LogSavePackage: Moving 'D:/DEV/Unreal/tp1_Elian_Escalante/tp1_Elian_Escalante/Saved/Paladin_diffuse8C6AF25B42B5A4E7AFE57F87333F1CED.tmp' to 'D:/DEV/Unreal/tp1_Elian_Escalante/tp1_Elian_Escalante/Content/Animation/Paladin_diffuse.uasset'
+[2026.11.11-16.39.29:603][592]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Animation/Paladin_normal] ([1] browsable assets)...
+[2026.11.11-16.39.29:603][592]OBJ SavePackage: Finished generating thumbnails for package [/Game/Animation/Paladin_normal]
+[2026.11.11-16.39.29:603][592]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Animation/Paladin_normal" FILE="D:/DEV/Unreal/tp1_Elian_Escalante/tp1_Elian_Escalante/Content/Animation/Paladin_normal.uasset" SILENT=true
+[2026.11.11-16.39.29:651][592]LogSavePackage: Moving output files for package: /Game/Animation/Paladin_normal
+[2026.11.11-16.39.29:651][592]LogSavePackage: Moving 'D:/DEV/Unreal/tp1_Elian_Escalante/tp1_Elian_Escalante/Saved/Paladin_normalD31D4C2F4A745128081D3F82E67E9E0A.tmp' to 'D:/DEV/Unreal/tp1_Elian_Escalante/tp1_Elian_Escalante/Content/Animation/Paladin_normal.uasset'
+[2026.11.11-16.39.29:700][592]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Animation/Paladin_specular] ([1] browsable assets)...
+[2026.11.11-16.39.29:700][592]OBJ SavePackage: Finished generating thumbnails for package [/Game/Animation/Paladin_specular]
+[2026.11.11-16.39.29:700][592]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Animation/Paladin_specular" FILE="D:/DEV/Unreal/tp1_Elian_Escalante/tp1_Elian_Escalante/Content/Animation/Paladin_specular.uasset" SILENT=true
+[2026.11.11-16.39.29:719][592]LogSavePackage: Moving output files for package: /Game/Animation/Paladin_specular
+[2026.11.11-16.39.29:719][592]LogSavePackage: Moving 'D:/DEV/Unreal/tp1_Elian_Escalante/tp1_Elian_Escalante/Saved/Paladin_specularBE3CAB4D4B2B37870D7CB48813D6A347.tmp' to 'D:/DEV/Unreal/tp1_Elian_Escalante/tp1_Elian_Escalante/Content/Animation/Paladin_specular.uasset'
+[2026.11.11-16.39.29:721][592]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Animation/Standing_Aim_Idle_01] ([1] browsable assets)...
+[2026.11.11-16.39.29:721][592]OBJ SavePackage: Finished generating thumbnails for package [/Game/Animation/Standing_Aim_Idle_01]
+[2026.11.11-16.39.29:721][592]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Animation/Standing_Aim_Idle_01" FILE="D:/DEV/Unreal/tp1_Elian_Escalante/tp1_Elian_Escalante/Content/Animation/Standing_Aim_Idle_01.uasset" SILENT=true
+[2026.11.11-16.39.29:744][592]LogSavePackage: Moving output files for package: /Game/Animation/Standing_Aim_Idle_01
+[2026.11.11-16.39.29:744][592]LogSavePackage: Moving 'D:/DEV/Unreal/tp1_Elian_Escalante/tp1_Elian_Escalante/Saved/Standing_Aim_Idle_01383A226E44321CAF3D7DECBC00126939.tmp' to 'D:/DEV/Unreal/tp1_Elian_Escalante/tp1_Elian_Escalante/Content/Animation/Standing_Aim_Idle_01.uasset'
+[2026.11.11-16.39.29:808][592]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Animation/Standing_Aim_Idle_01_PhysicsAsset] ([1] browsable assets)...
+[2026.11.11-16.39.29:808][592]OBJ SavePackage: Finished generating thumbnails for package [/Game/Animation/Standing_Aim_Idle_01_PhysicsAsset]
+[2026.11.11-16.39.29:811][592]LogSavePackage: Moving output files for package: /Game/Animation/Standing_Aim_Idle_01_PhysicsAsset
+[2026.11.11-16.39.29:812][592]LogSavePackage: Moving 'D:/DEV/Unreal/tp1_Elian_Escalante/tp1_Elian_Escalante/Saved/Standing_Aim_Idle_01_PhysicsAsse3DC40C1B487A331CC9F511964DA336CD.tmp' to 'D:/DEV/Unreal/tp1_Elian_Escalante/tp1_Elian_Escalante/Content/Animation/Standing_Aim_Idle_01_PhysicsAsset.uasset'
+[2026.11.11-16.39.29:814][592]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Animation/Standing_Walk_Back] ([1] browsable assets)...
+[2026.11.11-16.39.29:814][592]OBJ SavePackage: Finished generating thumbnails for package [/Game/Animation/Standing_Walk_Back]
+[2026.11.11-16.39.29:814][592]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Animation/Standing_Walk_Back" FILE="D:/DEV/Unreal/tp1_Elian_Escalante/tp1_Elian_Escalante/Content/Animation/Standing_Walk_Back.uasset" SILENT=true
+[2026.11.11-16.39.29:833][592]LogSavePackage: Moving output files for package: /Game/Animation/Standing_Walk_Back
+[2026.11.11-16.39.29:833][592]LogSavePackage: Moving 'D:/DEV/Unreal/tp1_Elian_Escalante/tp1_Elian_Escalante/Saved/Standing_Walk_Back26D400354A77D2390C84819303EEE1B8.tmp' to 'D:/DEV/Unreal/tp1_Elian_Escalante/tp1_Elian_Escalante/Content/Animation/Standing_Walk_Back.uasset'
+[2026.11.11-16.39.29:913][592]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Animation/Standing_Walk_Back_Anim] ([1] browsable assets)...
+[2026.11.11-16.39.29:913][592]OBJ SavePackage: Finished generating thumbnails for package [/Game/Animation/Standing_Walk_Back_Anim]
+[2026.11.11-16.39.29:913][592]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Animation/Standing_Walk_Back_Anim" FILE="D:/DEV/Unreal/tp1_Elian_Escalante/tp1_Elian_Escalante/Content/Animation/Standing_Walk_Back_Anim.uasset" SILENT=true
+[2026.11.11-16.39.29:919][592]LogSavePackage: Moving output files for package: /Game/Animation/Standing_Walk_Back_Anim
+[2026.11.11-16.39.29:919][592]LogSavePackage: Moving 'D:/DEV/Unreal/tp1_Elian_Escalante/tp1_Elian_Escalante/Saved/Standing_Walk_Back_AnimDBEC0966487170FB684EFABE290860BF.tmp' to 'D:/DEV/Unreal/tp1_Elian_Escalante/tp1_Elian_Escalante/Content/Animation/Standing_Walk_Back_Anim.uasset'
+[2026.11.11-16.39.29:980][592]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Animation/Standing_Walk_Back_PhysicsAsset] ([1] browsable assets)...
+[2026.11.11-16.39.29:980][592]OBJ SavePackage: Finished generating thumbnails for package [/Game/Animation/Standing_Walk_Back_PhysicsAsset]
+[2026.11.11-16.39.29:998][592]LogSavePackage: Moving output files for package: /Game/Animation/Standing_Walk_Back_PhysicsAsset
+[2026.11.11-16.39.29:998][592]LogSavePackage: Moving 'D:/DEV/Unreal/tp1_Elian_Escalante/tp1_Elian_Escalante/Saved/Standing_Walk_Back_PhysicsAsset343439604F0218B774D73DB8D36EEA0B.tmp' to 'D:/DEV/Unreal/tp1_Elian_Escalante/tp1_Elian_Escalante/Content/Animation/Standing_Walk_Back_PhysicsAsset.uasset'
+[2026.11.11-16.39.30:001][592]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Animation/Standing_Walk_Left] ([1] browsable assets)...
+[2026.11.11-16.39.30:001][592]OBJ SavePackage: Finished generating thumbnails for package [/Game/Animation/Standing_Walk_Left]
+[2026.11.11-16.39.30:001][592]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Animation/Standing_Walk_Left" FILE="D:/DEV/Unreal/tp1_Elian_Escalante/tp1_Elian_Escalante/Content/Animation/Standing_Walk_Left.uasset" SILENT=true
+[2026.11.11-16.39.30:025][592]LogSavePackage: Moving output files for package: /Game/Animation/Standing_Walk_Left
+[2026.11.11-16.39.30:025][592]LogSavePackage: Moving 'D:/DEV/Unreal/tp1_Elian_Escalante/tp1_Elian_Escalante/Saved/Standing_Walk_LeftE1CFA24C493D9EA2415530AEEEF02331.tmp' to 'D:/DEV/Unreal/tp1_Elian_Escalante/tp1_Elian_Escalante/Content/Animation/Standing_Walk_Left.uasset'
+[2026.11.11-16.39.30:092][592]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Animation/Standing_Walk_Left_Anim] ([1] browsable assets)...
+[2026.11.11-16.39.30:092][592]OBJ SavePackage: Finished generating thumbnails for package [/Game/Animation/Standing_Walk_Left_Anim]
+[2026.11.11-16.39.30:092][592]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Animation/Standing_Walk_Left_Anim" FILE="D:/DEV/Unreal/tp1_Elian_Escalante/tp1_Elian_Escalante/Content/Animation/Standing_Walk_Left_Anim.uasset" SILENT=true
+[2026.11.11-16.39.30:098][592]LogSavePackage: Moving output files for package: /Game/Animation/Standing_Walk_Left_Anim
+[2026.11.11-16.39.30:099][592]LogSavePackage: Moving 'D:/DEV/Unreal/tp1_Elian_Escalante/tp1_Elian_Escalante/Saved/Standing_Walk_Left_AnimC74941D14F406F2F48A1CF9A689B6B57.tmp' to 'D:/DEV/Unreal/tp1_Elian_Escalante/tp1_Elian_Escalante/Content/Animation/Standing_Walk_Left_Anim.uasset'
+[2026.11.11-16.39.30:164][592]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Animation/Standing_Walk_Left_PhysicsAsset] ([1] browsable assets)...
+[2026.11.11-16.39.30:164][592]OBJ SavePackage: Finished generating thumbnails for package [/Game/Animation/Standing_Walk_Left_PhysicsAsset]
+[2026.11.11-16.39.30:177][592]LogSavePackage: Moving output files for package: /Game/Animation/Standing_Walk_Left_PhysicsAsset
+[2026.11.11-16.39.30:177][592]LogSavePackage: Moving 'D:/DEV/Unreal/tp1_Elian_Escalante/tp1_Elian_Escalante/Saved/Standing_Walk_Left_PhysicsAssetE99AB6694B18F4774E30E49BE2849FB2.tmp' to 'D:/DEV/Unreal/tp1_Elian_Escalante/tp1_Elian_Escalante/Content/Animation/Standing_Walk_Left_PhysicsAsset.uasset'
+[2026.11.11-16.39.30:179][592]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Animation/Standing_Walk_Right] ([1] browsable assets)...
+[2026.11.11-16.39.30:179][592]OBJ SavePackage: Finished generating thumbnails for package [/Game/Animation/Standing_Walk_Right]
+[2026.11.11-16.39.30:179][592]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Animation/Standing_Walk_Right" FILE="D:/DEV/Unreal/tp1_Elian_Escalante/tp1_Elian_Escalante/Content/Animation/Standing_Walk_Right.uasset" SILENT=true
+[2026.11.11-16.39.30:200][592]LogSavePackage: Moving output files for package: /Game/Animation/Standing_Walk_Right
+[2026.11.11-16.39.30:200][592]LogSavePackage: Moving 'D:/DEV/Unreal/tp1_Elian_Escalante/tp1_Elian_Escalante/Saved/Standing_Walk_RightF0761A63490F33A4E0AF22B0287F6406.tmp' to 'D:/DEV/Unreal/tp1_Elian_Escalante/tp1_Elian_Escalante/Content/Animation/Standing_Walk_Right.uasset'
+[2026.11.11-16.39.30:263][592]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Animation/Standing_Walk_Right_Anim] ([1] browsable assets)...
+[2026.11.11-16.39.30:263][592]OBJ SavePackage: Finished generating thumbnails for package [/Game/Animation/Standing_Walk_Right_Anim]
+[2026.11.11-16.39.30:263][592]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Animation/Standing_Walk_Right_Anim" FILE="D:/DEV/Unreal/tp1_Elian_Escalante/tp1_Elian_Escalante/Content/Animation/Standing_Walk_Right_Anim.uasset" SILENT=true
+[2026.11.11-16.39.30:279][592]LogSavePackage: Moving output files for package: /Game/Animation/Standing_Walk_Right_Anim
+[2026.11.11-16.39.30:280][592]LogSavePackage: Moving 'D:/DEV/Unreal/tp1_Elian_Escalante/tp1_Elian_Escalante/Saved/Standing_Walk_Right_AnimC769D082432379F9D397AA93B4A90A5B.tmp' to 'D:/DEV/Unreal/tp1_Elian_Escalante/tp1_Elian_Escalante/Content/Animation/Standing_Walk_Right_Anim.uasset'
+[2026.11.11-16.39.30:347][592]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Animation/Standing_Walk_Right_PhysicsAsset] ([1] browsable assets)...
+[2026.11.11-16.39.30:347][592]OBJ SavePackage: Finished generating thumbnails for package [/Game/Animation/Standing_Walk_Right_PhysicsAsset]
+[2026.11.11-16.39.30:350][592]LogSavePackage: Moving output files for package: /Game/Animation/Standing_Walk_Right_PhysicsAsset
+[2026.11.11-16.39.30:350][592]LogSavePackage: Moving 'D:/DEV/Unreal/tp1_Elian_Escalante/tp1_Elian_Escalante/Saved/Standing_Walk_Right_PhysicsAsset3297B27A46574BB4DE6F60907983EF3E.tmp' to 'D:/DEV/Unreal/tp1_Elian_Escalante/tp1_Elian_Escalante/Content/Animation/Standing_Walk_Right_PhysicsAsset.uasset'
+[2026.11.11-16.39.30:367][592]LogFileHelpers: InternalPromptForCheckoutAndSave took 1.04 sec (total: 12.6 sec)
+[2026.11.11-16.39.30:467][592]LogStall: Shutdown...
+[2026.11.11-16.39.30:467][592]LogStall: Shutdown complete.
+[2026.11.11-16.39.30:532][592]LogWorld: UWorld::CleanupWorld for World_95, bSessionEnded=true, bCleanupResources=true
+[2026.11.11-16.39.30:533][592]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.11.11-16.39.30:780][592]LogWorld: UWorld::CleanupWorld for World_91, bSessionEnded=true, bCleanupResources=true
+[2026.11.11-16.39.30:780][592]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.11.11-16.39.30:800][592]LogWorld: UWorld::CleanupWorld for World_90, bSessionEnded=true, bCleanupResources=true
+[2026.11.11-16.39.30:801][592]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.11.11-16.39.30:818][592]LogWorld: UWorld::CleanupWorld for World_89, bSessionEnded=true, bCleanupResources=true
+[2026.11.11-16.39.30:818][592]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.11.11-16.39.30:894][592]LogSlate: Window 'BP_Arrow' being destroyed
+[2026.11.11-16.39.30:928][592]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2026.11.11-16.39.30:928][592]LogWorld: UWorld::CleanupWorld for World_97, bSessionEnded=true, bCleanupResources=true
+[2026.11.11-16.39.30:928][592]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.11.11-16.39.31:050][592]LogSlate: Window 'tp1_Elian_Escalante - Unreal Editor' being destroyed
+[2026.11.11-16.39.31:722][592]LogContentValidation: Display: Starting to validate 16 assets
+[2026.11.11-16.39.31:722][592]LogContentValidation: Enabled validators:
+[2026.11.11-16.39.31:722][592]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.11.11-16.39.31:722][592]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.11.11-16.39.31:722][592]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.11.11-16.39.31:722][592]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.11.11-16.39.31:722][592]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.11.11-16.39.31:723][592]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.11.11-16.39.31:723][592]AssetCheck: /Game/Animation/ABP_Player Validating asset
+[2026.11.11-16.39.31:723][592]AssetCheck: /Game/StarterContent/Materials/M_Metal_Gold Validating asset
+[2026.11.11-16.39.31:723][592]AssetCheck: /Game/Animation/Paladin_diffuse Validating asset
+[2026.11.11-16.39.31:723][592]AssetCheck: /Game/Animation/Paladin_normal Validating asset
+[2026.11.11-16.39.31:723][592]AssetCheck: /Game/Animation/Paladin_specular Validating asset
+[2026.11.11-16.39.31:723][592]AssetCheck: /Game/Animation/Standing_Aim_Idle_01 Validating asset
+[2026.11.11-16.39.31:723][592]AssetCheck: /Game/Animation/Standing_Aim_Idle_01_PhysicsAsset Validating asset
+[2026.11.11-16.39.31:724][592]AssetCheck: /Game/Animation/Standing_Walk_Back Validating asset
+[2026.11.11-16.39.31:724][592]AssetCheck: /Game/Animation/Standing_Walk_Back_Anim Validating asset
+[2026.11.11-16.39.31:724][592]AssetCheck: /Game/Animation/Standing_Walk_Back_PhysicsAsset Validating asset
+[2026.11.11-16.39.31:724][592]AssetCheck: /Game/Animation/Standing_Walk_Left Validating asset
+[2026.11.11-16.39.31:724][592]AssetCheck: /Game/Animation/Standing_Walk_Left_Anim Validating asset
+[2026.11.11-16.39.31:724][592]AssetCheck: /Game/Animation/Standing_Walk_Left_PhysicsAsset Validating asset
+[2026.11.11-16.39.31:724][592]AssetCheck: /Game/Animation/Standing_Walk_Right Validating asset
+[2026.11.11-16.39.31:724][592]AssetCheck: /Game/Animation/Standing_Walk_Right_Anim Validating asset
+[2026.11.11-16.39.31:725][592]AssetCheck: /Game/Animation/Standing_Walk_Right_PhysicsAsset Validating asset
+[2026.11.11-16.39.31:769][592]LogUObjectHash: Compacting FUObjectHashTables data took   1.43ms
+[2026.11.11-16.39.31:803][592]Cmd: QUIT_EDITOR
+[2026.11.11-16.39.31:803][592]LogCore: Engine exit requested (reason: UUnrealEdEngine::CloseEditor())
+[2026.11.11-16.39.31:900][593]LogCore: Engine exit requested (reason: EngineExit() was called; note: exit was already requested)
+[2026.11.11-16.39.31:901][593]LogStaticMesh: Abandoning remaining async distance field tasks for shutdown
+[2026.11.11-16.39.31:901][593]LogStaticMesh: Abandoning remaining async card representation tasks for shutdown
+[2026.11.11-16.39.31:910][593]LogWorld: UWorld::CleanupWorld for HelmsDeep, bSessionEnded=true, bCleanupResources=true
+[2026.11.11-16.39.31:910][593]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.11.11-16.39.32:019][593]LogStylusInput: Shutting down StylusInput subsystem.
+[2026.11.11-16.39.32:086][593]LogLevelSequenceEditor: LevelSequenceEditor subsystem deinitialized.
+[2026.11.11-16.39.32:178][593]LogWorld: UWorld::CleanupWorld for World_88, bSessionEnded=true, bCleanupResources=true
+[2026.11.11-16.39.32:178][593]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.11.11-16.39.32:182][593]LogWorld: UWorld::CleanupWorld for World_65, bSessionEnded=true, bCleanupResources=true
+[2026.11.11-16.39.32:182][593]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.11.11-16.39.32:185][593]LogWorld: UWorld::CleanupWorld for World_55, bSessionEnded=true, bCleanupResources=true
+[2026.11.11-16.39.32:185][593]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.11.11-16.39.32:187][593]LogWorld: UWorld::CleanupWorld for World_54, bSessionEnded=true, bCleanupResources=true
+[2026.11.11-16.39.32:187][593]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.11.11-16.39.32:192][593]LogWorld: UWorld::CleanupWorld for World_53, bSessionEnded=true, bCleanupResources=true
+[2026.11.11-16.39.32:192][593]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.11.11-16.39.32:195][593]LogWorld: UWorld::CleanupWorld for World_63, bSessionEnded=true, bCleanupResources=true
+[2026.11.11-16.39.32:195][593]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.11.11-16.39.32:199][593]LogWorld: UWorld::CleanupWorld for World_58, bSessionEnded=true, bCleanupResources=true
+[2026.11.11-16.39.32:199][593]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.11.11-16.39.32:202][593]LogWorld: UWorld::CleanupWorld for World_46, bSessionEnded=true, bCleanupResources=true
+[2026.11.11-16.39.32:202][593]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.11.11-16.39.32:204][593]LogWorld: UWorld::CleanupWorld for World_59, bSessionEnded=true, bCleanupResources=true
+[2026.11.11-16.39.32:204][593]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.11.11-16.39.32:208][593]LogWorld: UWorld::CleanupWorld for World_69, bSessionEnded=true, bCleanupResources=true
+[2026.11.11-16.39.32:208][593]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.11.11-16.39.32:210][593]LogWorld: UWorld::CleanupWorld for World_70, bSessionEnded=true, bCleanupResources=true
+[2026.11.11-16.39.32:210][593]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.11.11-16.39.32:213][593]LogWorld: UWorld::CleanupWorld for World_30, bSessionEnded=true, bCleanupResources=true
+[2026.11.11-16.39.32:213][593]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.11.11-16.39.32:215][593]LogWorld: UWorld::CleanupWorld for World_28, bSessionEnded=true, bCleanupResources=true
+[2026.11.11-16.39.32:215][593]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.11.11-16.39.32:218][593]LogWorld: UWorld::CleanupWorld for World_26, bSessionEnded=true, bCleanupResources=true
+[2026.11.11-16.39.32:218][593]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.11.11-16.39.32:221][593]LogWorld: UWorld::CleanupWorld for World_12, bSessionEnded=true, bCleanupResources=true
+[2026.11.11-16.39.32:221][593]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.11.11-16.39.32:226][593]LogWorld: UWorld::CleanupWorld for World_10, bSessionEnded=true, bCleanupResources=true
+[2026.11.11-16.39.32:226][593]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.11.11-16.39.32:229][593]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2026.11.11-16.39.32:229][593]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.11.11-16.39.32:231][593]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2026.11.11-16.39.32:231][593]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.11.11-16.39.32:234][593]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2026.11.11-16.39.32:234][593]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.11.11-16.39.32:237][593]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2026.11.11-16.39.32:237][593]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.11.11-16.39.32:241][593]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2026.11.11-16.39.32:241][593]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.11.11-16.39.32:244][593]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2026.11.11-16.39.32:244][593]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.11.11-16.39.32:246][593]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2026.11.11-16.39.32:247][593]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.11.11-16.39.32:249][593]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2026.11.11-16.39.32:249][593]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.11.11-16.39.32:252][593]LogWorld: UWorld::CleanupWorld for World_98, bSessionEnded=true, bCleanupResources=true
+[2026.11.11-16.39.32:252][593]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.11.11-16.39.32:257][593]LogWorld: UWorld::CleanupWorld for World_96, bSessionEnded=true, bCleanupResources=true
+[2026.11.11-16.39.32:257][593]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.11.11-16.39.32:345][593]LogStudioTelemetry: Ended StudioTelemetry Session
+[2026.11.11-16.39.32:396][593]LogAnalytics: Display: [UEEditor.Rocket.Release] Destroying ET Analytics provider
+[2026.11.11-16.39.32:398][593]LogAnalytics: Display: [UEEditor.Rocket.Release] Ended ET Analytics provider session
+[2026.11.11-16.39.32:398][593]LogAnalytics: Display: [UEEditor.Rocket.Release] Destroyed ET Analytics provider
+[2026.11.11-16.39.33:118][593]LogAudio: Display: Beginning Audio Device Manager Shutdown (Module: AudioMixerXAudio2)...
+[2026.11.11-16.39.33:118][593]LogAudio: Display: Destroying 1 Remaining Audio Device(s)...
+[2026.11.11-16.39.33:118][593]LogAudio: Display: Audio Device unregistered from world 'HelmsDeep'.
+[2026.11.11-16.39.33:133][593]LogAudio: Display: Shutting down audio device while 1 references to it are still alive. For more information, compile with INSTRUMENT_AUDIODEVICE_HANDLES.
+[2026.11.11-16.39.33:134][593]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1
+[2026.11.11-16.39.33:139][593]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1
+[2026.11.11-16.39.33:152][593]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID -1
+[2026.11.11-16.39.33:152][593]LogAudio: Display: Audio Device Manager Shutdown
+[2026.11.11-16.39.33:154][593]LogWindowsTextInputMethodSystem: Activated input method: Español (España, internacional) - (Keyboard).
+[2026.11.11-16.39.33:200][593]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2026.11.11-16.39.33:216][593]LogExit: Preparing to exit.
+[2026.11.11-16.39.33:596][593]LogUObjectHash: Compacting FUObjectHashTables data took   1.56ms
+[2026.11.11-16.39.33:600][593]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/add_controls_for_selected_PY.add_controls_for_selected_options' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.11.11-16.39.33:616][593]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/add_controls_for_selected_PY.add_controls_for_selected' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.11.11-16.39.33:618][593]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/add_null_above_selected_PY.add_null_above_selected' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.11.11-16.39.33:619][593]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_translation_rotation' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.11.11-16.39.33:620][593]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_translation_all' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.11.11-16.39.33:620][593]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_translation_x' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.11.11-16.39.33:620][593]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_translation_y' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.11.11-16.39.33:620][593]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_translation_z' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.11.11-16.39.33:620][593]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_rotation' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.11.11-16.39.33:620][593]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_scale' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.11.11-16.39.33:620][593]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.search_replace_name_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.11.11-16.39.33:620][593]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.search_replace_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.11.11-16.39.33:620][593]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.add_prefix_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.11.11-16.39.33:620][593]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.add_prefix_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.11.11-16.39.33:620][593]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.add_suffix_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.11.11-16.39.33:620][593]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.add_suffix_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.11.11-16.39.33:620][593]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.do_rename_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.11.11-16.39.33:620][593]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.do_rename_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.11.11-16.39.33:620][593]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/set_bone_reference_pose_PY.set_bone_reference_pose' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.11.11-16.39.33:620][593]LogPython: Display: Object '/ControlRig/Python/ControlRigWorkflows/workflow_fbik_import_ik_rig_PY.import_ik_rig_options' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.11.11-16.39.33:620][593]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/add_controls_for_selected_PY.ControlOutputFormat' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.11.11-16.39.34:729][593]LogEditorDataStorage: Deinitializing
+[2026.11.11-16.39.35:805][593]LogDemo: Cleaned up 0 splitscreen connections, owner deletion: enabled
+[2026.11.11-16.39.36:450][593]LogExit: Editor shut down
+[2026.11.11-16.39.36:497][593]LogExit: Transaction tracking system shut down
